@@ -5,9 +5,9 @@ Je code principalement en __Python__ 🐍 dans des domaines autours des __Mathé
 
 Mon plus gros projet est un projet de [**simulation épidémiologique**](https://github.com/antonin-lfv/simulation_virus_covid-19) 🦠 ( épinglé juste en dessous ), tout est bien expliqué dans le ReadMe alors n'hésitez pas à y faire un tour et laisser une étoile ⭐️  <br/>
 
-- J'ai également crée un tutoriel sur la librairie graphique python Plotly disponible [**ici**](https://github.com/antonin-lfv/Plotly_tutorial) 📊 ⭐️ <br/>
+J'ai également crée un tutoriel sur la librairie graphique python Plotly disponible [**ici**](https://github.com/antonin-lfv/Plotly_tutorial) 📊 ⭐️ <br/>
 
-- Si vous cherchez des datasets open source, il y en a [**par là**](https://github.com/antonin-lfv/Gallery-of-Datasets) 🌎 <br/>
+Si vous cherchez des datasets open source, il y en a [**par là**](https://github.com/antonin-lfv/Gallery-of-Datasets) 🌎 <br/>
 
 Mon site : [**antonin-lfv.github.io**](https://antonin-lfv.github.io) ou vous retrouverez mon portfolio ☁️  
 
