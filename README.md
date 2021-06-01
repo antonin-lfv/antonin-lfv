@@ -9,7 +9,7 @@ Mon plus gros projet est un projet de [**simulation épidémiologique**](https:/
 
 - Si vous cherchez des datasets open source, il y en a [**par là**](https://github.com/antonin-lfv/Gallery-of-Datasets) 🌎 <br/>
 
-- Mon site : [**antonin-lfv.github.io**](https://antonin-lfv.github.io)
+Mon site : [**antonin-lfv.github.io**](https://antonin-lfv.github.io) ou vous retrouverez mon portfolio ☁️  
 
 <br/>
 
