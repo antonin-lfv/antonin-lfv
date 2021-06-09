@@ -7,7 +7,7 @@ Mon plus gros projet est un projet de [**simulation épidémiologique**](https:/
 
 J'ai également crée un tutoriel sur la librairie graphique python Plotly disponible [**ici**](https://github.com/antonin-lfv/Plotly_tutorial) 📊 ⭐️ <br/>
 
-Et dans le thème du ML j'ai créé une application web pour réaliser son analyse de données de façon rapide et simple, c'est [**ici**](https://share.streamlit.io/antonin-lfv/automated_preprocessing_pandas/main.py) 🌐⭐️
+Et dans le thème du ML j'ai créé une application web pour réaliser son analyse de données de façon rapide et simple, c'est [**ici**](https://share.streamlit.io/antonin-lfv/online_preprocessing_for_ml/main.py) 🌐⭐️
 
 Mon site : [**antonin-lfv.github.io**](https://antonin-lfv.github.io) ou vous retrouverez mon portfolio ☁️  
 
