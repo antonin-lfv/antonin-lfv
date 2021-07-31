@@ -9,7 +9,7 @@ J'ai également crée un tutoriel sur la librairie graphique python Plotly dispo
 
 Et dans le thème du ML j'ai créé une [**application web**](https://share.streamlit.io/antonin-lfv/online_preprocessing_for_ml/main.py) pour réaliser son analyse de données et pour créer des modèles d'IA de façon rapide et simple 🌐⭐️
 
-Tous ces projets, et les info sur moi, sont disponibles depuis [**mon site internet**](https://antonin-lfv.github.io), qui contient également du contenu exclusif ☁️  
+Tous ces projets, et les infos sur moi, sont disponibles depuis [**mon site internet**](https://antonin-lfv.github.io), qui contient également du contenu exclusif ☁️  
 
 
 <br/>
