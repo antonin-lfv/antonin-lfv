@@ -11,6 +11,12 @@ Et dans le thème du ML j'ai créé une [**application web**](https://share.stre
 
 Mon site : [**antonin-lfv.github.io**](https://antonin-lfv.github.io) où je partage un peu tout ce que je fais ☁️  
 
+
+Projets | Lien
+|---|---|
+épidémio|lien
+
+
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonin-lfv&layout=compact)](https://github.com/antonin-lfv/github-readme-stats)
