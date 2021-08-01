@@ -1,15 +1,12 @@
 ### Hi there 👽
 
 Bienvenue sur mon profil GitHub où je partage mes projets ! </br>
+
 Je code principalement en __Python__ 🐍 dans des domaines autours des __Mathématiques__ et de l'__Intelligence Artificielle__ 🤖
 
 Mon plus gros projet est un projet de [**simulation épidémiologique**](https://github.com/antonin-lfv/simulation_virus_covid-19) 🦠 ( épinglé juste en dessous ), tout est bien expliqué dans le ReadMe alors n'hésitez pas à y faire un tour et laisser une étoile ⭐️  <br/>
 
-J'ai également crée un tutoriel sur la librairie graphique python Plotly disponible [**ici**](https://github.com/antonin-lfv/Plotly_tutorial) 📊 ⭐️ <br/>
-
-Et dans le thème du ML j'ai créé une [**application web**](https://share.streamlit.io/antonin-lfv/online_preprocessing_for_ml/main.py) pour réaliser son analyse de données et pour créer des modèles d'IA de façon rapide et simple 🌐⭐️
-
-Tous ces projets, et les infos sur moi, sont disponibles depuis [**mon site internet**](https://antonin-lfv.github.io), qui contient également du contenu exclusif ☁️  
+Pour retrouver tous mes autres projets, ceux qui sont prévus, et plus encore, je vous invite à vous rendre sur [**mon site web**](https://antonin-lfv.github.io) 🌏☁️  
 
 
 <br/>
