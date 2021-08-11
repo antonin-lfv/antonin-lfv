@@ -7,7 +7,7 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 
 🦠🧪 - Mon plus gros projet est un projet de [**simulation épidémiologique**](https://github.com/antonin-lfv/simulation_virus_covid-19) ( épinglé juste en dessous ), tout est bien expliqué dans le ReadMe alors n'hésitez pas à y faire un tour et laisser une étoile ⭐️  <br>
 
-🔒🕵️‍♂️ - J'ai commencé l'écriture d'un [**blog**](https://antoninlefevre45.gitbook.io/cybersecurity/) avec GitBook sur la Cybersécurité, ou j'explique des techniques d'attaques pour mieux savoir se défendre <br>
+🔒🕵️‍♂️ - J'ai commencé l'écriture d'un [**blog**](https://antoninlefevre45.gitbook.io/cybersecurity/) avec GitBook sur la Cybersécurité, ou j'y expose diverses techniques de hacking, dans le but de savoir se protéger au mieux sur Internet <br>
 
 🌏☁️ - Pour retrouver tous mes autres projets, ceux qui sont prévus, et plus encore, je vous invite à vous rendre sur [**mon site web**](https://antonin-lfv.github.io) <br>
 
