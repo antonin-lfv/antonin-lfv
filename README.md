@@ -11,7 +11,7 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 
 🌏☁️ - Vous pouvez retrouver tous mes projets et articles sur [**mon site web**](https://antonin-lfv.github.io) que j'ai développé avec le framework [Jekyll](https://jekyllrb.com) <br>
 
-- [] oui
+- [ ] oui
 - [X] non
 
 <br>
