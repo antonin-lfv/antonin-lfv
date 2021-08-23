@@ -7,9 +7,9 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 
 🦠🧪 - Mon plus gros projet est un projet de [**simulation épidémiologique**](https://github.com/antonin-lfv/simulation_virus_covid-19) ( épinglé juste en dessous ), tout est bien expliqué dans le ReadMe alors n'hésitez pas à y faire un tour et laisser une étoile ⭐️  <br>
 
-📈📚 - J'ai crée un [**tutoriel**](https://github.com/antonin-lfv/Plotly_tutorial) complet sur la librairie graphique Plotly, qui peut s'avérer indispensable lors de présentations de résultats grâce à des graphiques sophistiqués et interactifs.
+📈📚 - J'ai crée un [**tutoriel**](https://github.com/antonin-lfv/Plotly_tutorial) complet sur la librairie graphique **Plotly**, qui peut s'avérer indispensable lors de présentations de résultats grâce à des graphiques sophistiqués et interactifs.
 
-🔒🕵️‍♂️ - J'ai commencé l'écriture d'un [**blog**](https://antoninlefevre45.gitbook.io/cybersecurity/) avec GitBook sur la Cybersécurité, ou j'y explique et découvre diverses techniques de hacking, dans le but de savoir se protéger au mieux sur Internet <br>
+🔒🕵️‍♂️ - J'ai commencé l'écriture d'un [**blog**](https://antoninlefevre45.gitbook.io/cybersecurity/) avec GitBook sur la **Cybersécurité**, ou j'y explique et découvre diverses techniques de hacking, dans le but de savoir se protéger au mieux sur Internet <br>
 
 🌏☁️ - Vous pouvez retrouver tous mes projets et articles sur [**mon site web**](https://antonin-lfv.github.io) que j'ai développé avec le framework [**Jekyll**](https://jekyllrb.com). Je partage également des tutoriels notamment sur le framework python [**Streamlit**](https://streamlit.io) <br>
 
