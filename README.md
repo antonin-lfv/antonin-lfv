@@ -16,7 +16,7 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 <br>
 
 Projets en cours : 
-- Analyse complète de données viticoles mondiales 🍇 
+- Analyse complète de données viticoles mondiales [🍇](https://fr.sli.dev) 
 - Programmation Arduino 🤖 
 
 <br>
