@@ -16,8 +16,8 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 <br>
 
 Projets en cours : 
-- Analyse complète de données viticoles mondiales [🍇](https://fr.sli.dev) 
-- Programmation Arduino 🤖 
+- Analyse complète de données viticoles mondiales [🍇](https://github.com/antonin-lfv/wine_analysis) 
+- Programmation Arduino [🤖](https://github.com/antonin-lfv/Robotics) 
 
 <br>
 
