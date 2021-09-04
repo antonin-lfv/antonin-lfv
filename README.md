@@ -5,7 +5,6 @@ Bienvenue sur mon profil GitHub !👋🏼</br>
 Je suis un passionné de nouvelles technologies et de programmation. Je code principalement en __Python__ 🐍 dans des domaines autours des __Mathématiques__ 🧮 et de l'__Intelligence Artificielle__ ⛏. Je m'intéresse également aux domaines de la __cybersécurité__ 💻 du __Web__ 🌐 et de la __robotique__ 🤖. <br>
 <br>
 
-### Projets
 
 🦠🧪 - Mon plus gros projet est un projet de [**simulation épidémiologique**](https://github.com/antonin-lfv/simulation_virus_covid-19) ( épinglé juste en dessous ), tout est bien expliqué dans le ReadMe alors n'hésitez pas à y faire un tour et laisser une étoile ⭐️  <br>
 
@@ -17,7 +16,7 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 
 <br>
 
-### Projets en cours 
+Projets en cours :
 
 - Analyse complète de données viticoles mondiales [🍇](https://github.com/antonin-lfv/wine_analysis) 
 - Programmation Arduino [🤖](https://github.com/antonin-lfv/Robotics) 
