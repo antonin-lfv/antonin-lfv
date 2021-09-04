@@ -22,6 +22,10 @@ Projets en cours :
 - Programmation Arduino [🤖](https://github.com/antonin-lfv/Robotics) 
 
 <br>
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="antonin-lefevre-0110" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/antonin-lefevre-0110?trk=profile-badge">Antonin Lefevre</a></div>
+              
         
 
 <p align="right">
