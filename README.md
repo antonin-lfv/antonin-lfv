@@ -12,6 +12,8 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 
 🧠🌐 - Je suis en train de développer une application web [**No-code IA platform**](https://share.streamlit.io/antonin-lfv/online_preprocessing_for_ml/main.py) grâce à Streamlit, qui permet de découvrir les modèles les plus utilisés de Machine Learning, et d'utiliser certains modèles de Deep Learning, pour faire notamment de la détection d'objets sur une image, ou pour faire du transfert learning.
 
+🤖🔋 - Je rédige en ce moment mes avancées dans le domaine de la **robotique** avec Arduino, RaspberryPi et ROS, ainsi que mes bons plans pour se lancer. Tout est disponible dans le [**repo**](https://github.com/antonin-lfv/Robotics). 
+
 🔒🕵️‍♂️ - J'ai commencé l'écriture d'un [**blog**](https://antoninlefevre45.gitbook.io/cybersecurity/) avec GitBook sur la **Cybersécurité**, ou j'y explique et découvre diverses techniques de hacking, dans le but de savoir se protéger au mieux sur Internet <br>
 
 🌏☁️ - Vous pouvez retrouver tous mes projets et articles sur [**mon site web**](https://antonin-lfv.github.io) que j'ai développé avec le framework [**Jekyll**](https://jekyllrb.com). Je partage également des tutoriels notamment sur le framework python [**Streamlit**](https://streamlit.io) <br>
