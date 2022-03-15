@@ -10,7 +10,7 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 
 📈📚 - J'ai crée un [**tutoriel**](https://github.com/antonin-lfv/Plotly_tutorial) complet sur la librairie graphique **Plotly**, qui peut s'avérer indispensable lors de présentations de résultats grâce à des graphiques sophistiqués et interactifs.
 
-🧠🌐 - Je suis en train de développer une application web [**No-code IA platform**](https://share.streamlit.io/antonin-lfv/online_preprocessing_for_ml/main.py) grâce à Streamlit, qui permet de faire du Preprocessing et du Machine Learning sur vos Datasets sans avoir besoin de programmer une seule ligne de code.
+🧠🌐 - Je suis en train de développer une application web [**No-code IA platform**](https://no-code-ai-platform.herokuapp.com) grâce à Flask, qui permet de faire du Machine Learning sans avoir besoin de programmer une seule ligne de code. La première version de cet outil à été développé avec la bibliothèque Streamlit et est disponible [**ici**](https://github.com/antonin-lfv/Online_preprocessing_for_ML).
 
 🤖🔋 - Je rédige en ce moment mes avancées dans le domaine de la **robotique** avec Arduino, RaspberryPi et ROS, ainsi que mes bons plans pour se lancer. Tout est disponible dans le [**repo**](https://github.com/antonin-lfv/Robotics). 
 
@@ -22,7 +22,6 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 
 Projets en cours :
 
-- No-code AI platform avec Flask [🖥](https://github.com/antonin-lfv/No-code-AI-platform)
 - Programmation Arduino/ RaspberryPi/ ROS [🤖](https://github.com/antonin-lfv/Robotics) 
 
 <br>
