@@ -20,7 +20,7 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 
 <br>
 
-Projets en cours :
+<ins>Projets en cours :</ins>
 
 - Programmation Arduino/ RaspberryPi/ ROS [🤖](https://github.com/antonin-lfv/Robotics) 
 
