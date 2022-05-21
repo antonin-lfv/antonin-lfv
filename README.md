@@ -9,7 +9,7 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 
 🦠🧪 - Mon plus gros projet est un projet de [**simulation épidémiologique**](https://github.com/antonin-lfv/simulation_virus_covid-19) ( épinglé juste en dessous ), tout est bien expliqué dans le ReadMe alors n'hésitez pas à y faire un tour et laisser une étoile ⭐️  <br>
 
-🕸📰 - J'ai développé un [**réseau de neurones dynamique**](https://github.com/antonin-lfv/Dynamic_graph_neural_network/blob/main/README.md) avec Python à partir d'un article scientifique. Je l'utilise pour effectuer des classifications de signaux périodiques <br>
+🕸📰 - J'ai développé un [**réseau de neurones dynamique**](https://github.com/antonin-lfv/Dynamic_graph_neural_network/blob/main/README.md) avec Python à partir d'un article scientifique. Je l'utilise pour effectuer des classifications de signaux sinusoïdaux <br>
 
 🧠🌐 - Je suis en train de développer une application web [**No-code IA platform**](https://github.com/antonin-lfv/No-code-AI-platform) grâce à **Flask**, qui permet de faire du Machine Learning sans avoir besoin de programmer une seule ligne de code. La première version de cet outil à été développé avec la bibliothèque Streamlit et est disponible [**ici**](https://github.com/antonin-lfv/Online_preprocessing_for_ML). <br>
 
