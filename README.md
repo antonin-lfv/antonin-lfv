@@ -11,7 +11,7 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 
 🕸📰 - J'ai développé un [**réseau de neurones dynamique**](https://github.com/antonin-lfv/Dynamic_graph_neural_network/blob/main/README.md) avec Python à partir d'un article scientifique. Je l'utilise pour effectuer des classifications de signaux sinusoïdaux et de chants d'oiseaux <br>
 
-🧠🌐 - Je suis en train de développer une application web [**No-code IA platform**](https://github.com/antonin-lfv/No-code-AI-platform) grâce à **Flask**, qui permet de faire du Machine Learning sans avoir besoin de programmer une seule ligne de code. La première version de cet outil à été développé avec la bibliothèque Streamlit et est disponible [**ici**](https://github.com/antonin-lfv/Online_preprocessing_for_ML). <br>
+🧠🌐 - Je suis en train de développer une application web [**No-code IA platform**](https://github.com/antonin-lfv/Online_preprocessing_for_ML) grâce à **Streamlit**, qui permet de faire du Machine Learning sans avoir besoin de programmer une seule ligne de code.<br>
 
 📈📚 - J'ai crée un [**tutoriel**](https://github.com/antonin-lfv/Plotly_tutorial) complet sur la librairie graphique **Plotly**, qui peut s'avérer indispensable lors de présentations de résultats grâce à des graphiques sophistiqués et interactifs.
 
