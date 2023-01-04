@@ -42,7 +42,7 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 
 ### Mes liens 📌
 
-[🔮](https://medium.com/@antoninlefevre45) - Mon profil **Medium** où j'écris des articles.
+[🔮](https://medium.com/@antoninlefevre45) - Mon profil [**Medium**](https://medium.com/@antoninlefevre45) où j'écris des articles.
 
 <br>
 
