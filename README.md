@@ -40,9 +40,9 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 
 <br>
 
-### Mes projets en cours 📌
+### Mes liens 📌
 
-[🤖](https://github.com/antonin-lfv/Robotics) - Programmation Arduino/ RaspberryPi/ ROS
+[🔮](https://medium.com/@antoninlefevre45) - Mon profil **Medium** où j'écris des articles.
 
 <br>
 
