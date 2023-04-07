@@ -23,6 +23,8 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 
 🪙💰 - J'ai développé une [**sandbox**](https://github.com/antonin-lfv/Parrot_wallet) d'achat de **Cryptomonnaies** avec Flask qui créé un wallet factice avec 100k$ et qui vous permet de les utiliser comme bon vous semble.
 
+🎮🧌 - J'ai développé un [**jeu de monstres**](https://github.com/antonin-lfv/Bonx_monsters) qui s'appelle Bonx Monster avec Flask, dans lequel vous gagnez des monstres et combattez contre des bosses et dans des donjons.
+
 🌏☁️ - Vous pouvez retrouver tous mes projets et articles annexes sur [**mon site web**](https://antonin-lfv.github.io) que j'ai développé avec le framework [**Jekyll**](https://jekyllrb.com). Je partage également des tutoriels notamment sur le framework python [**Streamlit**](https://streamlit.io). <br>
 
 <br>
