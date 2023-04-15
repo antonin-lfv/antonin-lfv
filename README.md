@@ -25,8 +25,6 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 
 🎮🧌 - J'ai développé un [**jeu de monstres**](https://github.com/antonin-lfv/Bonx_monsters) qui s'appelle Bonx Monster avec Flask, dans lequel vous gagnez des monstres et combattez contre des bosses et dans des donjons.
 
-🌏☁️ - Vous pouvez retrouver tous mes projets et articles annexes sur [**mon site web**](https://antonin-lfv.github.io) que j'ai développé avec le framework [**Jekyll**](https://jekyllrb.com). Je partage également des tutoriels notamment sur le framework python [**Streamlit**](https://streamlit.io). <br>
-
 <br>
 
 ### Mes indispensables 📌
@@ -47,6 +45,8 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 [🔮](https://medium.com/@antoninlefevre45) - Mon profil [**Medium**](https://medium.com/@antoninlefevre45) où j'écris des articles.
 
 [📸](https://antonin-lfv.github.io/PhotographyWebsite/) - Mon [**site**](https://antonin-lfv.github.io/PhotographyWebsite/) de photos.
+
+[🌐](https://antonin-lfv.github.io) - Mon [**site**](https://antonin-lfv.github.io) professionnel.
 
 <br>
 
