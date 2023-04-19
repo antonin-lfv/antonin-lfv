@@ -46,7 +46,7 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 
 [📸](https://antonin-lfv.github.io/PhotographyWebsite/) - Mon [**site**](https://antonin-lfv.github.io/PhotographyWebsite/) de photos.
 
-[🌐](https://antonin-lfv.github.io) - Mon [**site**](https://antonin-lfv.github.io) professionnel.
+[🌐](https://antonin-lfv.github.io) - Mon [**site**](https://antonin-lfv.github.io) professionnel où sont répertoriés tous mes articles et projets.
 
 <br>
 
