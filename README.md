@@ -15,7 +15,7 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 
 📈📚 - J'ai crée un [**tutoriel**](https://github.com/antonin-lfv/Plotly_tutorial) complet sur la librairie graphique **Plotly**, qui peut s'avérer indispensable lors de présentations de résultats grâce à des graphiques sophistiqués et interactifs.
 
-🤖🔋 - J'ai créé un depôt rassemblant mes projet avec Arduino et RaspberryPi. Je crée des modèles de deep learning et des dashboards en utilisant des capteurs IoT. Tout est disponible dans le [**repo**](https://github.com/antonin-lfv/DataScience_IoT_projects). 
+🤖🔋 - J'ai créé un depôt rassemblant mes projet de data science avec **Arduino** et **RaspberryPi**. Je crée des modèles de deep learning et des dashboards en utilisant des capteurs IoT. Tout est disponible dans le [**repo**](https://github.com/antonin-lfv/DataScience_IoT_projects). 
 
 🔒🕵️ - J'ai commencé l'écriture d'un [**blog**](https://antoninlefevre45.gitbook.io/cybersecurity/) avec GitBook sur la **Cybersécurité**, ou j'y explique et découvre diverses techniques de hacking, dans le but de savoir se protéger au mieux sur Internet <br>
 
