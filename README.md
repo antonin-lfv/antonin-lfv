@@ -7,7 +7,7 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 
 ### Mes projets principaux 📌
 
-🦠🧪 - Mon premier gros projet est un projet de [**simulation épidémiologique**](https://github.com/antonin-lfv/simulation_virus_covid-19) ( épinglé juste en dessous ), tout est bien expliqué dans le ReadMe alors n'hésitez pas à y faire un tour et laisser une étoile ⭐️  <br>
+🦠🧪 - Mon premier gros projet est un projet de [**simulation épidémiologique**](https://github.com/antonin-lfv/simulation_virus_covid-19) ou je modélise la diffusion d'un virus au sein d'une population<br>
 
 🕸📰 - J'ai développé un [**réseau de neurones dynamique**](https://github.com/antonin-lfv/Dynamic_graph_neural_network/blob/main/README.md) avec Python à partir d'un article scientifique. Je l'utilise pour effectuer des classifications de signaux sinusoïdaux, de chants d'oiseaux et d'électrocardiogrammes<br>
 
