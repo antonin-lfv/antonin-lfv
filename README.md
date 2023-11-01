@@ -11,15 +11,13 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 
 🕸📰 - J'ai développé un [**réseau de neurones dynamique**](https://github.com/antonin-lfv/Dynamic_graph_neural_network/blob/main/README.md) avec Python à partir d'un article scientifique. Je l'utilise pour effectuer des classifications de signaux sinusoïdaux, de chants d'oiseaux et d'électrocardiogrammes<br>
 
-🧠🌐 - Je suis en train de développer une application web [**No-code IA platform**](https://github.com/antonin-lfv/Online_preprocessing_for_ML) grâce à **Streamlit**, qui permet de faire du Machine Learning sans avoir besoin de programmer une seule ligne de code.<br>
+🧠🌐 - J'ai développé une application web [**No-code IA platform**](https://github.com/antonin-lfv/Online_preprocessing_for_ML) grâce à **Streamlit**, qui permet de faire du Machine Learning sans avoir besoin de programmer une seule ligne de code.<br>
+
+⛏️🪙 - J'ai crée un [**simulateur de Blockchain PoW**](https://github.com/antonin-lfv/QuantumChain) multi-threadé avec Flask, Plotly et MQTT avec toute une interface graphique pour suivre l'évolution du minage et l'avancée des mineurs.
 
 📈📚 - J'ai crée un [**tutoriel**](https://github.com/antonin-lfv/Plotly_tutorial) complet sur la librairie graphique **Plotly**, qui peut s'avérer indispensable lors de présentations de résultats grâce à des graphiques sophistiqués et interactifs.
 
 🤖🔋 - J'ai créé un depôt rassemblant mes projets liant **IoT** et **Intelligence Artificielle**. Je développe des projets uniques et je documente tout dans des articles. Tout est disponible [**ici**](https://github.com/antonin-lfv/DataScience_IoT_projects). 
-
-🔒🕵️ - J'ai commencé l'écriture d'un [**blog**](https://antoninlefevre45.gitbook.io/cybersecurity/) avec GitBook sur la **Cybersécurité**, ou j'y explique et découvre diverses techniques de hacking, dans le but de savoir se protéger au mieux sur Internet <br>
-
-📈💵 - J'ai crée un [dashboard](https://github.com/antonin-lfv/DashBoard_stock_prices) avec **Streamlit** représentant le cours de certains marchés, et utilisant l'API de Yahoo Finance.
 
 🪙💰 - J'ai développé une [**sandbox**](https://github.com/antonin-lfv/Parrot_wallet) d'achat de **Cryptomonnaies** avec Flask qui créé un wallet factice avec 100k$ et qui vous permet de les utiliser comme bon vous semble.
 
