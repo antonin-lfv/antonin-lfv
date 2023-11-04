@@ -13,7 +13,7 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 
 🧠🌐 - J'ai développé une application web [**No-code IA platform**](https://github.com/antonin-lfv/Online_preprocessing_for_ML) grâce à **Streamlit**, qui permet de faire du Machine Learning sans avoir besoin de programmer une seule ligne de code.<br>
 
-⛏️🪙 - J'ai crée un [**simulateur de Blockchain PoW**](https://github.com/antonin-lfv/QuantumChain) multi-threadé avec Flask, Plotly et MQTT avec toute une interface graphique pour suivre l'évolution du minage et l'avancée des mineurs.
+⛏️🪙 - J'ai crée un [**simulateur de Blockchain PoW**](https://github.com/antonin-lfv/QuantumChain) qui peut se lancer de manière multi-threadé ou en réseau, avec Flask, Plotly et MQTT avec toute une interface graphique pour suivre l'évolution du minage et l'avancée des mineurs.
 
 📈📚 - J'ai crée un [**tutoriel**](https://github.com/antonin-lfv/Plotly_tutorial) complet sur la librairie graphique **Plotly**, qui peut s'avérer indispensable lors de présentations de résultats grâce à des graphiques sophistiqués et interactifs.
 
