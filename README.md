@@ -19,7 +19,7 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 
 🤖🔋 - J'ai créé un depôt rassemblant mes projets liant **IoT** et **Intelligence Artificielle**. Je développe des projets uniques et je documente tout dans des articles. Tout est disponible [**ici**](https://github.com/antonin-lfv/DataScience_IoT_projects). 
 
-🪙💰 - J'ai développé une [**sandbox**](https://github.com/antonin-lfv/Parrot_wallet) d'achat de **Cryptomonnaies** avec Flask qui créé un wallet factice avec 100k$ et qui vous permet de les utiliser comme bon vous semble.
+🪙💰 - J'ai développé un [**écosystème**](https://github.com/antonin-lfv/CryptoPlatform) de **Cryptomonnaies**/**NFT** avec Flask qui permet de miner et trader des cryptos ainsi qu'acheter et mettre aux enchères des NFTs. C'est une sorte de jeu en ligne, basé sur les vrais cours des Cryptomonnaies. (lien du site dans le ReadMe)
 
 🎮🧌 - J'ai développé un [**jeu de monstres**](https://github.com/antonin-lfv/Bonx_monsters) qui s'appelle Bonx Monster avec Flask, dans lequel vous gagnez des monstres et combattez contre des bosses et dans des donjons.
 
