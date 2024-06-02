@@ -15,6 +15,8 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 
 ⚛️📊 - J'ai développé l'algorithme de machine learning [**KMeans en version quantique**](https://github.com/antonin-lfv/QMeans) avec **Qiskit**, et j'ai publié un article lié à ce code. L'article donne le côté théorique et le code vérifie les concepts présentés.
 
+<br>
+
 ### Autres Projets 📌
 
 🦠🧪 - Mon premier gros projet est un projet de [**simulation épidémiologique**](https://github.com/antonin-lfv/simulation_virus_covid-19) où je modélise la diffusion d'un virus au sein d'une population<br>
