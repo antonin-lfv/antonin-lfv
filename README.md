@@ -2,7 +2,7 @@
 
 Bienvenue sur mon profil GitHub !👋🏼</br>
 
-Je suis un passionné de nouvelles technologies et de programmation. Je code principalement en __Python__ 🐍 dans des domaines autours des __Mathématiques__ 🧮 et de l'__Intelligence Artificielle__ ⛏. Je m'intéresse également aux domaines de la __cybersécurité__ 💻 du __Web__ 🌐 et de la __robotique__ 🤖. <br>
+Je suis un passionné de nouvelles technologies et de programmation. Je code principalement en __Python__ 🐍 dans des domaines autours des __Mathématiques__ 🧮, de l'__Intelligence Artificielle__ ⛏ et du __quantique__ ⚛️. Je m'intéresse également aux domaines de la __cybersécurité__ 💻 du __Web__ 🌐 et de la __robotique__ 🤖. <br>
 <br>
 
 ### Projets d'Intelligence Artificielle 📌
