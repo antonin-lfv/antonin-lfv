@@ -41,6 +41,8 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 
 📂 - [Inventaires](https://github.com/antonin-lfv/Gallery-of-Datasets) de sites répertoriant des Datasets pour la Data Science
 
+🧠 - [Everything in markdown](https://github.com/antonin-lfv/everything-in-markdown), une application streamlit qui permet de transformer des pdf, pptx, docx, html, etc. en fichier **Markdown**
+
 
 <br>
 
