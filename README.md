@@ -13,7 +13,7 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 
 🤖🔋 - J'ai créé un dépôt rassemblant mes projets liant **IoT** et **Intelligence Artificielle**. Je développe des projets uniques et je documente tout dans des articles. Tout est disponible [**ici**](https://github.com/antonin-lfv/DataScience_IoT_projects). 
 
-⚛️📊 - J'ai développé l'algorithme de machine learning [**KMeans en version quantique**](https://github.com/antonin-lfv/QMeans) avec **Qiskit**, et j'ai publié un article lié à ce code. L'article donne le côté théorique et le code vérifie les concepts présentés.
+⚛️📊 - J'ai développé l'algorithme de machine learning [**KMeans en version quantique**](https://github.com/antonin-lfv/QMeans) avec **Qiskit**, et j'ai publié un [article](https://easychair.org/publications/preprint/JV22) lié à ce code. L'article donne le côté théorique et le code vérifie les concepts présentés.
 
 <br>
 
