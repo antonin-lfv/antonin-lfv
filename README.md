@@ -11,7 +11,11 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 
 🧠🌐 - J'ai développé une application web [**No-code IA platform**](https://github.com/antonin-lfv/Online_preprocessing_for_ML) grâce à **Streamlit**, qui permet de faire du Machine Learning sans avoir besoin de programmer une seule ligne de code.<br>
 
-🤖🔋 - J'ai créé un dépôt rassemblant mes projets liant **IoT** et **Intelligence Artificielle**. Je développe des projets uniques et je documente tout dans des articles. Tout est disponible [**ici**](https://github.com/antonin-lfv/DataScience_IoT_projects). 
+🏗️🏢 - J'ai créé un modèle permettant le [**calcul et la visualisation de la déformation d'une structure**](https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Deformation_structure/README.md) en 3D à partir de données de capteurs d'accélération et de gyroscopes en temps réel. 
+
+⚠️🔎 - J'ai développé un [**modèle de détection d'anomalies vibratoires**](https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Anomalies_vibratoires_accelerometre_AE_debruitage/README.md) à partir de données provenant de capteurs accéléromètres (MPU-6050) et utilisant un auto-encodeur de débruitage.
+
+🌨️☀️ - J'ai créé ma propre [**station météo intelligente**](https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Station_meteo_prediction_temps_ML/README.md) en utilisant divers capteurs comme un BMP180 pour mesurer la température et la pression atmosphérique ou encore un HTU21 pour l'humidité. Le tout connecté à une interface streamlit reliée aux capteurs par le protocole **MQTT**.
 
 ⚛️📊 - J'ai développé l'algorithme de machine learning [**KMeans en version quantique**](https://github.com/antonin-lfv/QMeans) avec **Qiskit**, et j'ai publié un [article](https://easychair.org/publications/preprint/JV22) lié à ce code. L'article donne le côté théorique et le code vérifie les concepts présentés.
 
