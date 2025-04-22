@@ -29,6 +29,8 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 
 🎮🧌 - J'ai développé un [**jeu de monstres**](https://github.com/antonin-lfv/Bonx_monsters) qui s'appelle Bonx Monster avec Flask, dans lequel vous gagnez des monstres et combattez contre des bosses et dans des donjons.
 
+🏀🧑🏼‍🏫 - J'ai créé une application qui permet de générer [**des animations de basketball**](https://github.com/antonin-lfv/BasketBallCoach) pour visualiser des systèmes offensifs et pouvoir les apprendre plus facilement.
+
 <br>
 
 ### Mes indispensables 📌
