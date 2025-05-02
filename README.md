@@ -10,9 +10,11 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 
 ⚛️📊 - J'ai développé l'algorithme de machine learning [**KMeans en version quantique**](https://github.com/antonin-lfv/QMeans) avec **Qiskit**, et j'ai publié un [article](https://easychair.org/publications/preprint/JV22) lié à ce code. L'article donne le côté théorique et le code vérifie les concepts présentés.
 
-🏗️🏢 - J'ai créé un modèle permettant le [**calcul et la visualisation de la déformation d'une structure**](https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Deformation_structure/README.md) en 3D à partir de données de capteurs d'accélération et de gyroscopes en temps réel. 
+🩺🫀 – J’ai développé un [**VAE convolutionnel**]() (auto‑encodeur variationnel convolutionnel) entraîné sur des électrocardiogrammes pour générer de nouvelles données d’anomalies cardiaques, là où les jeux de données sont rares.
 
 ⚠️🔎 - J'ai développé un [**modèle de détection d'anomalies vibratoires**](https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Anomalies_vibratoires_accelerometre_AE_debruitage/README.md) à partir de données provenant de capteurs accéléromètres (MPU-6050) et utilisant un **auto-encodeur de débruitage**.
+
+🏗️🏢 - J'ai créé un modèle permettant le [**calcul et la visualisation de la déformation d'une structure**](https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Deformation_structure/README.md) en 3D à partir de données de capteurs d'accélération et de gyroscopes en temps réel. 
 
 🕸📰 - J'ai développé un [**réseau de neurones dynamique**](https://github.com/antonin-lfv/Dynamic_graph_neural_network/blob/main/README.md) avec Python à partir d'un article scientifique. Je l'utilise pour effectuer des classifications de signaux sinusoïdaux, de chants d'oiseaux et d'électrocardiogrammes<br>
 
