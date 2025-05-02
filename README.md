@@ -10,7 +10,7 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 
 ⚛️📊 - J'ai développé l'algorithme de machine learning [**KMeans en version quantique**](https://github.com/antonin-lfv/QMeans) avec **Qiskit**, et j'ai publié un [article](https://easychair.org/publications/preprint/JV22) lié à ce code. L'article donne le côté théorique et le code vérifie les concepts présentés.
 
-🩺🫀 – J’ai développé un [**Variational AutoEncoder convolutionnel**](https://github.com/antonin-lfv/ECG_Generator) (**auto‑encodeur variationnel convolutionnel**) entraîné sur des électrocardiogrammes pour générer de nouvelles données d’anomalies cardiaques, là où les jeux de données sont rares.
+🩺🫀 – J’ai développé un [**Variational autoEncoder convolutionnel**](https://github.com/antonin-lfv/ECG_Generator) (**auto‑encodeur variationnel convolutionnel**) entraîné sur des électrocardiogrammes pour générer de nouvelles données d’anomalies cardiaques, là où les jeux de données sont rares.
 
 ⚠️🔎 - J'ai développé un [**modèle de détection d'anomalies vibratoires**](https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Anomalies_vibratoires_accelerometre_AE_debruitage/README.md) à partir de données provenant de capteurs accéléromètres (MPU-6050) et utilisant un **auto-encodeur de débruitage**.
 
