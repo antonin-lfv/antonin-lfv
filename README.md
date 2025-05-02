@@ -14,8 +14,6 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 
 ⚠️🔎 - J'ai développé un [**modèle de détection d'anomalies vibratoires**](https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Anomalies_vibratoires_accelerometre_AE_debruitage/README.md) à partir de données provenant de capteurs accéléromètres (MPU-6050) et utilisant un **auto-encodeur de débruitage**.
 
-🏗️🏢 - J'ai créé un modèle permettant le [**calcul et la visualisation de la déformation d'une structure**](https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Deformation_structure/README.md) en 3D à partir de données de capteurs d'**accélération** et de **gyroscopes** en temps réel. 
-
 🕸📰 - J'ai développé un [**réseau de neurones dynamique**](https://github.com/antonin-lfv/Dynamic_graph_neural_network/blob/main/README.md) avec Python à partir d'un article scientifique. Je l'utilise pour effectuer des classifications de signaux **sinusoïdaux**, de **chants d'oiseaux** et d'**électrocardiogrammes**<br>
 
 🧠🌐 - J'ai développé une application web [**No-code IA platform**](https://github.com/antonin-lfv/Online_preprocessing_for_ML) grâce à **Streamlit**, qui permet de faire du **Machine Learning** sans avoir besoin de programmer une seule ligne de code.<br>
@@ -29,6 +27,8 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 🦠🧪 - Mon premier gros projet est un projet de [**simulation épidémiologique**](https://github.com/antonin-lfv/simulation_virus_covid-19) où je modélise la diffusion d'un virus au sein d'une population<br>
 
 ⛏️🪙 - J'ai créé un [**simulateur de Blockchain PoW**](https://github.com/antonin-lfv/QuantumChain) qui peut se lancer de manière multi-threadé ou en réseau, avec Flask, Plotly et MQTT avec toute une interface graphique pour suivre l'évolution du minage et l'avancée des mineurs.
+
+🏗️🏢 - J'ai créé un modèle permettant le [**calcul et la visualisation de la déformation d'une structure**](https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Deformation_structure/README.md) en 3D à partir de données de capteurs d'**accélération** et de **gyroscopes** en temps réel. 
 
 📈📚 - J'ai créé un [**tutoriel**](https://github.com/antonin-lfv/Plotly_tutorial) complet sur la librairie graphique **Plotly**, qui peut s'avérer indispensable lors de présentations de résultats grâce à des graphiques sophistiqués et interactifs.
 
