@@ -14,6 +14,8 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 
 ⚠️🔎 - J'ai développé un [**modèle de détection d'anomalies vibratoires**](https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Anomalies_vibratoires_accelerometre_AE_debruitage/README.md) à partir de données provenant de capteurs accéléromètres (MPU-6050) et utilisant un **auto-encodeur de débruitage**.
 
+🦀🤖 - Je développe actuellement [**des modèles de Machine Learning en Rust**](https://github.com/antonin-lfv/rust_first_steps), recodés **from scratch**, pour explorer les performances et les concepts fondamentaux de l’**IA en Rust**.
+
 🕸📰 - J'ai développé un [**réseau de neurones dynamique**](https://github.com/antonin-lfv/Dynamic_graph_neural_network/blob/main/README.md) avec Python à partir d'un article scientifique. Je l'utilise pour effectuer des classifications de signaux **sinusoïdaux**, de **chants d'oiseaux** et d'**électrocardiogrammes**<br>
 
 🧠🌐 - J'ai développé une application web [**No-code IA platform**](https://github.com/antonin-lfv/Online_preprocessing_for_ML) grâce à **Streamlit**, qui permet de faire du **Machine Learning** sans avoir besoin de programmer une seule ligne de code.<br>
