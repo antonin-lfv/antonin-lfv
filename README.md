@@ -8,7 +8,7 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 
 ### Projets d'Intelligence Artificielle 📌
 
-⚛️📊 - J'ai développé l'algorithme de machine learning [**KMeans en version quantique**](https://github.com/antonin-lfv/QMeans) avec **Qiskit**, et j'ai publié un [article](https://easychair.org/publications/preprint/JV22) lié à ce code. L'article donne le côté théorique et le code vérifie les concepts présentés.
+⚛️📊 - J'ai développé l'algorithme de machine learning [**KMeans en version quantique**](https://github.com/antonin-lfv/QMeans) avec **Qiskit**, et j'ai publié un [**article**](https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780443290961000052?via%3Dihub) lié à ce code. L'article donne le côté théorique et le code vérifie les concepts présentés.
 
 🩺🫀 – J’ai développé un [**Variational autoencoder convolutionnel**](https://github.com/antonin-lfv/ECG_Generator) (**auto‑encodeur variationnel convolutionnel**) entraîné sur des électrocardiogrammes pour générer de nouvelles données d’**anomalies cardiaques**, là où les jeux de données sont rares.
 
