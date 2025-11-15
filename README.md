@@ -26,7 +26,7 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 
 ### Autres Projets 📌
 
-🦠🧪 - Mon premier gros projet est un projet de [**simulation épidémiologique**](https://github.com/antonin-lfv/simulation_virus_covid-19) où je modélise la diffusion d'un virus au sein d'une population<br>
+🦠🧪 - J'ai créé un algorithme de [**simulation épidémiologique**](https://github.com/antonin-lfv/simulation_virus_covid-19) où je modélise la diffusion d'un virus au sein d'une population<br>
 
 ⛏️🪙 - J'ai créé un [**simulateur de Blockchain PoW**](https://github.com/antonin-lfv/QuantumChain) qui peut se lancer de manière multi-threadé ou en réseau, avec Flask, Plotly et MQTT avec toute une interface graphique pour suivre l'évolution du minage et l'avancée des mineurs.
 
