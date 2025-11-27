@@ -34,7 +34,7 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 
 📈📚 - J'ai créé un [**tutoriel**](https://github.com/antonin-lfv/Plotly_tutorial) complet sur la librairie graphique **Plotly**, qui peut s'avérer indispensable lors de présentations de résultats grâce à des graphiques sophistiqués et interactifs.
 
-🪙💰 - J'ai développé un [**écosystème**](https://github.com/antonin-lfv/CryptoPlatform) de **Cryptomonnaies**/**NFT** avec Flask qui permet de miner et trader des cryptos ainsi qu'acheter et mettre aux enchères des NFTs. C'est une sorte de jeu en ligne, basé sur les vrais cours des Cryptomonnaies. (lien du site dans le ReadMe)
+🪙💰 - J'ai développé un [**écosystème**](https://github.com/antonin-lfv/CryptoPlatform) de **Cryptomonnaies**/**NFT** avec Flask qui permet de miner et trader des cryptos ainsi qu'acheter et mettre aux enchères des NFTs. C'est une sorte de jeu en ligne, basé sur les vrais cours des Cryptomonnaies.
 
 🎮🧌 - J'ai développé un [**jeu de monstres**](https://github.com/antonin-lfv/Bonx_monsters) qui s'appelle Bonx Monster avec Flask, dans lequel vous gagnez des monstres et combattez contre des bosses et dans des donjons.
 
