@@ -9,6 +9,8 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 
 ### Projets d'Intelligence Artificielle 📌
 
+🗣️🤖 [ESP32 ElioBot Voice Control](https://github.com/antonin-lfv/ESP32-robot-piloting-with-TinySpeech) `TinyML/C` • Système de **commande vocale embarquée** (hors-ligne) sur ESP32. Implémentation de **TinySpeech** avec quantification (Int8) et moteur d'inférence optimisé en `C`.
+
 ⚛️📊 [QMeans](https://github.com/antonin-lfv/QMeans) `Qiskit` • Implémentation de l'algorithme **KMeans** en version **quantique**, accompagnée d'un [article scientifique](https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780443290961000052?via%3Dihub) validant la théorie par le code.
 
 🩺🫀 [ECG Generator](https://github.com/antonin-lfv/ECG_Generator) `Deep Learning` • Auto-encodeur variationnel convolutionnel conçu pour générer des **électrocardiogrammes synthétiques** et enrichir les datasets médicaux.
