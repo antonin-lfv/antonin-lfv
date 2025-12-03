@@ -44,15 +44,15 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 
 ### Mes indispensables 📌
 
-🖥 **[Streamlit Template](https://github.com/antonin-lfv/streamlit_template)** • Base de projet optimisée.
+🖥 [Streamlit Template](https://github.com/antonin-lfv/streamlit_template) • Base de projet optimisée.
 
-🚀 **[Flask Template](https://github.com/antonin-lfv/Flask_template)** • Structure modulaire avec Blueprints.
+🚀 [Flask Template](https://github.com/antonin-lfv/Flask_template) • Structure modulaire avec Blueprints.
 
-🌟 **[Utils](https://github.com/antonin-lfv/Utils)** • Collection de fonctions et classes utilitaires.
+🌟 [Utils](https://github.com/antonin-lfv/Utils) • Collection de fonctions et classes utilitaires.
 
-📂 **[Gallery of Datasets](https://github.com/antonin-lfv/Gallery-of-Datasets)** • Répertoire de sources de données pour la Data Science.
+📂 [Gallery of Datasets](https://github.com/antonin-lfv/Gallery-of-Datasets) • Répertoire de sources de données pour la Data Science.
 
-🧠 **[Everything to Markdown](https://github.com/antonin-lfv/everything-in-markdown)** • Convertisseur de documents (PDF, Docx...) vers Markdown.
+🧠 [Everything to Markdown](https://github.com/antonin-lfv/everything-in-markdown) • Convertisseur de documents (PDF, Docx...) vers Markdown.
 
 
 <br>
