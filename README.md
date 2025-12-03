@@ -9,37 +9,37 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 
 ### Projets d'Intelligence Artificielle 📌
 
-⚛️📊 [QMeans](https://github.com/antonin-lfv/QMeans) `Qiskit` • Implémentation de l'algorithme KMeans en version quantique, accompagnée d'un [article scientifique](https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780443290961000052?via%3Dihub) validant la théorie par le code.
+⚛️📊 [QMeans](https://github.com/antonin-lfv/QMeans) `Qiskit` • Implémentation de l'algorithme **KMeans** en version **quantique**, accompagnée d'un [article scientifique](https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780443290961000052?via%3Dihub) validant la théorie par le code.
 
-🩺🫀 [ECG Generator](https://github.com/antonin-lfv/ECG_Generator) `Deep Learning` • Auto-encodeur variationnel convolutionnel conçu pour générer des anomalies cardiaques synthétiques et enrichir les datasets médicaux.
+🩺🫀 [ECG Generator](https://github.com/antonin-lfv/ECG_Generator) `Deep Learning` • Auto-encodeur variationnel convolutionnel conçu pour générer des **électrocardiogrammes synthétiques** et enrichir les datasets médicaux.
 
-⚠️🔎 [Détection d'anomalies](https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Anomalies_vibratoires_accelerometre_AE_debruitage/README.md) `IoT/Auto-encodeur` • Système de débruitage et d'analyse de données vibratoires issues de capteurs accéléromètres (MPU-6050).
+⚠️🔎 [Détection d'anomalies](https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Anomalies_vibratoires_accelerometre_AE_debruitage/README.md) `IoT/Auto-encodeur` • Système de **débruitage** et d'**analyse** de données **vibratoires** issues de capteurs accéléromètres (MPU-6050).
 
 🦀🤖 [ML in Rust](https://github.com/antonin-lfv/rust_first_steps) `Rust` • Réimplémentation "from scratch" de modèles de Machine Learning pour maîtriser les fondements de l'IA avec la performance de Rust.
 
-🕸📰 [Dynamic GNN](https://github.com/antonin-lfv/Dynamic_graph_neural_network/blob/main/README.md) `Python` • Réseau de neurones dynamique appliqué à la classification complexe (chants d'oiseaux, ECG) basé sur la recherche académique.
+🕸📰 [Dynamic GNN](https://github.com/antonin-lfv/Dynamic_graph_neural_network/blob/main/README.md) `Python` • Réseau de neurones **dynamique** appliqué à la classification complexe (chants d'oiseaux, ECG) basé sur la recherche académique.
 
-🧠🌐 [No-code Platform](https://github.com/antonin-lfv/Online_preprocessing_for_ML) `Streamlit` • Application web démocratisant le Machine Learning sans nécessiter de compétences en programmation.
+🧠🌐 [No-code Platform](https://github.com/antonin-lfv/Online_preprocessing_for_ML) `Streamlit` • Application web pour effectuer les étapes du **Machine Learning** sans nécessiter de compétences en programmation.
 
-🌨️☀️ [Smart Weather](https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Station_meteo_prediction_temps_ML/README.md) `MQTT/IoT` • Station météo connectée (BMP180, HTU21) avec interface de visualisation et prédiction en temps réel.
+🌨️☀️ [Smart Weather](https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Station_meteo_prediction_temps_ML/README.md) `MQTT/IoT` • **Station météo connectée** (BMP180, HTU21) avec interface de visualisation et prédiction en temps réel.
 
 <br>
 
 ### Autres Projets 📌
 
-🦠🧪 [Simulation Virus](https://github.com/antonin-lfv/simulation_virus_covid-19) `Modélisation` • Algorithme simulant la dynamique de diffusion d'un virus au sein d'une population.
+🦠🧪 [Simulation Virus](https://github.com/antonin-lfv/simulation_virus_covid-19) `Modélisation` • Algorithme simulant la dynamique de **diffusion d'un virus** au sein d'une population.
 
-⛏️🪙 [QuantumChain](https://github.com/antonin-lfv/QuantumChain) `Flask/Multi-threading` • Simulateur de Blockchain PoW complet (réseau, minage, GUI) pour l'apprentissage des mécanismes crypto.
+⛏️🪙 [QuantumChain](https://github.com/antonin-lfv/QuantumChain) `Flask/Multi-threading` • Simulateur de **Blockchain PoW** complet (réseau, minage, GUI) pour l'apprentissage des mécanismes crypto.
 
-🏗️🏢 [Structure 3D](https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Deformation_structure/README.md) `Physique` • Outil de calcul et visualisation 3D des déformations structurelles via capteurs inertiels.
+🏗️🏢 [Structure 3D](https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Deformation_structure/README.md) `Physique` • Outil de calcul et visualisation 3D des **déformations structurelles** via capteurs inertiels.
 
-📈📚 [Plotly Tutorial](https://github.com/antonin-lfv/Plotly_tutorial) `Data Viz` • Guide exhaustif pour maîtriser la librairie graphique Plotly et créer des visualisations interactives.
+📈📚 [Plotly Tutorial](https://github.com/antonin-lfv/Plotly_tutorial) `Data Viz` • Guide exhaustif pour maîtriser la librairie graphique **Plotly** et créer des visualisations interactives.
 
-🪙💰 [CryptoPlatform](https://github.com/antonin-lfv/CryptoPlatform) `Flask` • Écosystème de jeu financier basé sur les cours réels : minage, trading de cryptos et enchères de NFTs.
+🪙💰 [CryptoPlatform](https://github.com/antonin-lfv/CryptoPlatform) `Flask` • Écosystème de **jeu financier** basé sur les cours réels : minage, trading de cryptos et enchères de NFTs.
 
-🎮🧌 [Bonx Monsters](https://github.com/antonin-lfv/Bonx_monsters) `Game Dev` • Jeu de combat et d'exploration de donjons développé en Python.
+🎮🧌 [Bonx Monsters](https://github.com/antonin-lfv/Bonx_monsters) `Game Dev` • Jeu de **combat** et d'exploration de donjons développé en Python.
 
-🏀🧑🏼‍🏫 [BasketBall Coach](https://github.com/antonin-lfv/BasketBallCoach) `Animation` • Générateur de schémas tactiques animés pour l'enseignement du basketball.
+🏀🧑🏼‍🏫 [BasketBall Coach](https://github.com/antonin-lfv/BasketBallCoach) `Animation` • Générateur de **schémas tactiques** animés pour l'enseignement du basketball.
 
 <br>
 
