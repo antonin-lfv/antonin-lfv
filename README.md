@@ -11,19 +11,19 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 
 🗣️🤖 [ESP32 ElioBot Voice Control](https://github.com/antonin-lfv/ESP32-robot-piloting-with-TinySpeech) `TinyML/C` • Système de **commande vocale embarquée** (hors-ligne) sur ESP32. Implémentation de **TinySpeech** avec quantification (Int8) et moteur d'inférence optimisé en C.
 
-⚛️📊 [QMeans](https://github.com/antonin-lfv/QMeans) `Qiskit` • Implémentation de l'algorithme **KMeans** en version **quantique**, accompagnée d'un [article scientifique](https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780443290961000052?via%3Dihub) validant la théorie par le code.
+⚛️📊 [QMeans](https://github.com/antonin-lfv/QMeans) `Qiskit` • Implémentation de l'algorithme **KMeans** en version **quantique** avec Qiskit, accompagnée d'un [article scientifique](https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780443290961000052?via%3Dihub) validant la théorie par le code et les mathématiques.
 
-🩺🫀 [ECG Generator](https://github.com/antonin-lfv/ECG_Generator) `Deep Learning` • Auto-encodeur variationnel convolutionnel conçu pour générer des **électrocardiogrammes synthétiques** et enrichir les datasets médicaux.
+🩺🫀 [ECG Generator](https://github.com/antonin-lfv/ECG_Generator) `Deep Learning` • Auto-encodeur variationnel convolutionnel conçu pour générer des **électrocardiogrammes synthétiques** et enrichir les datasets médicaux pour des pathologies rares.
 
-⚠️🔎 [Détection d'anomalies](https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Anomalies_vibratoires_accelerometre_AE_debruitage/README.md) `IoT/Auto-encodeur` • Système de **débruitage** et d'**analyse** de données **vibratoires** issues de capteurs accéléromètres (MPU-6050).
+⚠️🔎 [Détection d'anomalies](https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Anomalies_vibratoires_accelerometre_AE_debruitage/README.md) `IoT/Auto-encodeur` • Système de **débruitage** et d'**analyse** de données **vibratoires** issues de capteurs accéléromètres (MPU-6050) à l'aide d'un Auto-encodeur de débruitage.
 
-🦀🤖 [ML in Rust](https://github.com/antonin-lfv/rust_first_steps) `Rust` • Réimplémentation "from scratch" de modèles de Machine Learning pour maîtriser les fondements de l'IA avec la performance de Rust.
+🦀🤖 [ML in Rust](https://github.com/antonin-lfv/rust_first_steps) `Rust` • Réimplémentation **from scratch** de modèles de Machine Learning pour maîtriser les fondements de l'IA avec la performance de Rust.
 
-🕸📰 [Dynamic GNN](https://github.com/antonin-lfv/Dynamic_graph_neural_network/blob/main/README.md) `Python` • Réseau de neurones **dynamique** appliqué à la classification complexe (chants d'oiseaux, ECG) basé sur la recherche académique.
+🕸📰 [Dynamic GNN](https://github.com/antonin-lfv/Dynamic_graph_neural_network/blob/main/README.md) `Python` • Réseau de neurones **dynamique** appliqué à la classification complexe de signaux (chants d'oiseaux, ECG) basé sur un papier de recherche.
 
-🧠🌐 [No-code Platform](https://github.com/antonin-lfv/Online_preprocessing_for_ML) `Streamlit` • Application web pour effectuer les étapes du **Machine Learning** sans nécessiter de compétences en programmation.
+🧠🌐 [No-code Platform](https://github.com/antonin-lfv/Online_preprocessing_for_ML) `Streamlit` • Application web pour effectuer les étapes du **Machine Learning** sans nécessiter de compétences en programmation, avec Streamlit.
 
-🌨️☀️ [Smart Weather](https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Station_meteo_prediction_temps_ML/README.md) `MQTT/IoT` • **Station météo connectée** (BMP180, HTU21) avec interface de visualisation et prédiction en temps réel.
+🌨️☀️ [Smart Weather](https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Station_meteo_prediction_temps_ML/README.md) `MQTT/IoT` • **Station météo connectée** (BMP180, HTU21) avec interface de visualisation et prédiction en temps réel avec Streamlit.
 
 <br>
 
