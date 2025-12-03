@@ -6,6 +6,8 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 
 ---
 
+<br>
+
 ### Projets d'Intelligence Artificielle 📌
 
 ⚛️📊 [QMeans](https://github.com/antonin-lfv/QMeans) `Qiskit` • Implémentation de l'algorithme KMeans en version quantique, accompagnée d'un [article scientifique](https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780443290961000052?via%3Dihub) validant la théorie par le code.
