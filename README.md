@@ -29,19 +29,19 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 
 ### Autres Projets 📌
 
-🦠🧪 [Simulation Virus](https://github.com/antonin-lfv/simulation_virus_covid-19) `Modélisation` • Algorithme simulant la dynamique de **diffusion d'un virus** au sein d'une population.
+🦠🧪 [Simulation Virus](https://github.com/antonin-lfv/simulation_virus_covid-19) `Modélisation` • Algorithme simulant la dynamique de **diffusion d'un virus** au sein d'une population avec un modèle probabiliste puis validation avec les modèles épidémiologiques de référence.
 
-⛏️🪙 [QuantumChain](https://github.com/antonin-lfv/QuantumChain) `Flask/Multi-threading` • Simulateur de **Blockchain PoW** complet (réseau, minage, GUI) pour l'apprentissage des mécanismes crypto.
+⛏️🪙 [QuantumChain](https://github.com/antonin-lfv/QuantumChain) `Flask/Multi-threading` • Simulateur de **Blockchain PoW** complet avec une version de démonstration sur un seul PC et une version **online** avec le protocole **MQTT**.
 
-🏗️🏢 [Structure 3D](https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Deformation_structure/README.md) `Physique` • Outil de calcul et visualisation 3D des **déformations structurelles** via capteurs inertiels.
+🏗️🏢 [Structure 3D](https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Deformation_structure/README.md) `Physique` • Calcul et visualisation 3D **temps réel** (Courbes de Bézier) des déformations structurelles via capteurs inertiels **MPU-6050**.
 
-📈📚 [Plotly Tutorial](https://github.com/antonin-lfv/Plotly_tutorial) `Data Viz` • Guide exhaustif pour maîtriser la librairie graphique **Plotly** et créer des visualisations interactives.
+📈📚 [Plotly Tutorial](https://github.com/antonin-lfv/Plotly_tutorial) `Data Viz` • Guide exhaustif pour maîtriser la **visualisation interactive** : graphiques financiers, 3D, cartographie et outils pour le Machine Learning.
 
-🪙💰 [CryptoPlatform](https://github.com/antonin-lfv/CryptoPlatform) `Flask` • Écosystème de **jeu financier** basé sur les cours réels : minage, trading de cryptos et enchères de NFTs.
+🪙💰 [CryptoPlatform](https://github.com/antonin-lfv/CryptoPlatform) `Flask` • Écosystème gamifié complet : simulation de trading à levier, gestion de ferme de minage et marketplace NFT, synchronisé sur les cours réels.
 
-🎮🧌 [Bonx Monsters](https://github.com/antonin-lfv/Bonx_monsters) `Game Dev` • Jeu de **combat** et d'exploration de donjons développé en Python.
+🎮🧌 [Bonx Monsters](https://github.com/antonin-lfv/Bonx_monsters) `Game Dev` • RPG web complet (Flask/SQLAlchemy) : collection de monstres, combats de boss et exploration de donjons.
 
-🏀🧑🏼‍🏫 [BasketBall Coach](https://github.com/antonin-lfv/BasketBallCoach) `Animation` • Générateur de **schémas tactiques** animés pour l'enseignement du basketball.
+🏀🧑🏼‍🏫 [BasketBall Coach](https://github.com/antonin-lfv/BasketBallCoach) `Animation` • Générateur vidéo de systèmes offensifs utilisant le moteur **Manim** pour créer des animations tactiques professionnelles.
 
 <br>
 
