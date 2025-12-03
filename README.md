@@ -60,11 +60,11 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 
 ### Mes liens 📌
 
-[🔮](https://medium.com/@antoninlefevre45) - [Medium](https://medium.com/@antoninlefevre45) • Articles techniques et tutoriels.
+🔮 - [Medium](https://medium.com/@antoninlefevre45) • Articles techniques et tutoriels.
 
-[📸](https://antonin-lfv.github.io/PhotographyWebsite/) - [Photographie](https://antonin-lfv.github.io/PhotographyWebsite/) • Galerie personnelle.
+📸 - [Photographie](https://antonin-lfv.github.io/PhotographyWebsite/) • Galerie personnelle.
 
-[🌐](https://antonin-lfv.github.io) - [Site Web](https://antonin-lfv.github.io) • Portfolio professionnel et blog.
+🌐 - [Site Web](https://antonin-lfv.github.io) • Portfolio professionnel et blog.
 
 <br>
 
