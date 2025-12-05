@@ -87,6 +87,7 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
   </a> 
 
   <a href="https://antonin-lfv.github.io/assets/pdf/IA&Sante.pdf"> 
+    <br> 
     <strong>Conférence sur l'Intelligence Artificielle et la Santé</strong>
   </a> 
 
@@ -96,6 +97,25 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 </p>
 
 <br>
+
+<p align="left"> 
+  <a href="https://antonin-lfv.github.io/assets/pdf/QMeans.pdf"> 
+    <img src="https://github.com/antonin-lfv/antonin-lfv/raw/main/images/qmeans.png" alt="QMeans" width="300px" align="left"/> 
+  </a> 
+
+  <a href="https://antonin-lfv.github.io/assets/pdf/QMeans.pdf"> 
+    <br> 
+    <strong>Modèle QMeans, version quantique de KMeans</strong>
+  </a> 
+
+  <strong>2025</strong>
+
+  Article présentant les concepts de l'informatique quantique et les applications en machine learning, notamment avec l'algorithme QMeans, la version quantique de KMeans. L'article implémente une version hybride classique/quantique en Qiskit avec une validation expérimentale sur de veritables ordinateurs quantiques.
+</p>
+
+<br>
+
+<br> <br> <br> <br> <br> <br> <br> <br>
 
 <p align="center"> <sub>  
 <a href="https://medium.com/@antoninlefevre45">Blog Medium</a> •
