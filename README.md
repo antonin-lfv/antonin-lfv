@@ -80,19 +80,7 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
   <strong>2025</strong>
 
   Introduction vulgarisée à l'Intelligence Artificielle et ses applications en santé, dans tous les domaines, de la radiologie à la génomique, en passant par la robotique chirurgicale et la médecine personnalisée.
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
+  <br clear="all" />
 </p>
 
 <br>
@@ -110,18 +98,7 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
   <strong>2025</strong>
 
   Article expliquant différentes techniques de compression des modèles de Deep-Learning (Quantization, Pruning, Distillation) pour les déployer sur des dispositifs embarqués à ressources limitées. Et mise en oeuvre pratique avec le modèle `TinySpeech-M` sur Eliobot, un robot sous ESP32-S3.
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
+  <br clear="all" />
 </p>
 
 <br>
@@ -139,19 +116,10 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
   <strong>2024</strong>
 
   Article présentant les concepts de l'informatique quantique et les applications en machine learning, notamment avec l'algorithme QMeans, la version quantique de KMeans. L'article implémente une version hybride classique/quantique en Qiskit avec une validation expérimentale sur de veritables ordinateurs quantiques.
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
+  <br clear="all" />
 </p>
+
+<br>
 
 ## <div align="center">Mes indispensables</div>
 
@@ -164,6 +132,8 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 📂 [Gallery of Datasets](https://github.com/antonin-lfv/Gallery-of-Datasets) • Répertoire de sources de données pour la Data Science.
 
 🧠 [Everything to Markdown](https://github.com/antonin-lfv/everything-in-markdown) • Convertisseur de documents (PDF, Docx...) vers Markdown.
+
+<br clear="all" />
 
 <br>
 
