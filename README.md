@@ -104,11 +104,11 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
     <img src="https://github.com/antonin-lfv/antonin-lfv/blob/main/images/eliobot.png" width="300" align="left" alt="ESP32 Voice Control" />
   </a>
   <a href="https://github.com/antonin-lfv/ESP32-robot-piloting-with-TinySpeech">
-    <strong>🗣️🤖 ESP32 ElioBot Voice Control</strong>
+    <strong>ESP32 ElioBot Voice Control</strong><br>
   </a>
-  <br/>
+
   <code>TinyML/C</code> • <code>Embedded</code>
-  <br/><br/>
+  <br><br>
   Système de <strong>commande vocale embarquée</strong> (hors-ligne) sur ESP32. Implémentation de <strong>TinySpeech</strong> avec quantification (Int8) et moteur d'inférence optimisé en C pour piloter un robot par la voix sans internet.
     <br>
     <br>
