@@ -126,10 +126,6 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 
 ## <div align="center">Mes indispensables</div>
 
-🖥 [Streamlit Template](https://github.com/antonin-lfv/streamlit_template) • Base de projet optimisée.
-
-🚀 [Flask Template](https://github.com/antonin-lfv/Flask_template) • Structure modulaire avec Blueprints.
-
 🌟 [Utils](https://github.com/antonin-lfv/Utils) • Collection de fonctions et classes utilitaires.
 
 📂 [Gallery of Datasets](https://github.com/antonin-lfv/Gallery-of-Datasets) • Répertoire de sources de données pour la Data Science.
