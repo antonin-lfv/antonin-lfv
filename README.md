@@ -112,20 +112,18 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 <br>
 
 <p align="left"> 
-  <a href="https://antonin-lfv.github.io/assets/pdf/QMeans.pdf"> 
-    <img src="https://github.com/antonin-lfv/antonin-lfv/raw/main/images/qmeans.png" alt="QMeans" width="300px" align="left"/> 
+  <a href="#"> 
+    <img src="https://github.com/antonin-lfv/antonin-lfv/raw/main/images/tinyML.png" alt="TinyML" width="300px" align="left"/> 
   </a> 
 
-  <a href="https://antonin-lfv.github.io/assets/pdf/QMeans.pdf"> 
+  <a href="#"> 
     <br> 
-    <strong>Modèle QMeans, version quantique de KMeans</strong>
+    <strong>Compression des modèles de Deep-Learning</strong>
   </a> 
 
   <strong>2025</strong>
 
-  Article présentant les concepts de l'informatique quantique et les applications en machine learning, notamment avec l'algorithme QMeans, la version quantique de KMeans. L'article implémente une version hybride classique/quantique en Qiskit avec une validation expérimentale sur de veritables ordinateurs quantiques.
-  <br>
-  <br>
+  Article expliquant différentes techniques de compression des modèles de Deep-Learning (Quantization, Pruning, Distillation) pour les déployer sur des dispositifs embarqués à ressources limitées. Et mise en oeuvre pratique avec le modèle `TinySpeech-M` sur Eliobot, un robot sous ESP32-S3.
   <br>
   <br>
   <br>
@@ -141,18 +139,20 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 <br>
 
 <p align="left"> 
-  <a href="#"> 
-    <img src="https://github.com/antonin-lfv/antonin-lfv/raw/main/images/tinyML.png" alt="TinyML" width="300px" align="left"/> 
+  <a href="https://antonin-lfv.github.io/assets/pdf/QMeans.pdf"> 
+    <img src="https://github.com/antonin-lfv/antonin-lfv/raw/main/images/qmeans.png" alt="QMeans" width="300px" align="left"/> 
   </a> 
 
-  <a href="#"> 
+  <a href="https://antonin-lfv.github.io/assets/pdf/QMeans.pdf"> 
     <br> 
-    <strong>Compression des modèles de Deep-Learning</strong>
+    <strong>Modèle QMeans, version quantique de KMeans</strong>
   </a> 
 
-  <strong>2025</strong>
+  <strong>2024</strong>
 
-  Article expliquant différentes techniques de compression des modèles de Deep-Learning (Quantization, Pruning, Distillation) pour les déployer sur des dispositifs embarqués à ressources limitées. Et mise en oeuvre pratique avec le modèle `TinySpeech-M` sur Eliobot, un robot sous ESP32-S3.
+  Article présentant les concepts de l'informatique quantique et les applications en machine learning, notamment avec l'algorithme QMeans, la version quantique de KMeans. L'article implémente une version hybride classique/quantique en Qiskit avec une validation expérimentale sur de veritables ordinateurs quantiques.
+  <br>
+  <br>
   <br>
   <br>
   <br>
