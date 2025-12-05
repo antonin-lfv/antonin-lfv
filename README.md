@@ -102,13 +102,12 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
   </a>
   <a href="https://github.com/antonin-lfv/ESP32-robot-piloting-with-TinySpeech">
     <strong>🗣️🤖 ESP32 ElioBot Voice Control</strong><br>
-  </a>
+  </a> <code>TinyML/C</code> • <code>Embedded</code>
 
-  <code>TinyML/C</code> • <code>Embedded</code>
-  <br><br>
   Système de <strong>commande vocale embarquée</strong> (hors-ligne) sur ESP32. Implémentation de <strong>TinySpeech</strong> avec quantification (Int8) et moteur d'inférence optimisé en C pour piloter un robot par la voix sans internet.
 </p>
 
+<br>
 <br>
 
 <p align="left"> 
@@ -120,13 +119,11 @@ Implémentation de l'algorithme <strong>KMeans</strong> en version <strong>quant
 </p>
 
 <br>
+<br>
 
 <p align="left"> <a href="https://github.com/antonin-lfv/ECG_Generator"> <img src="https://github.com/antonin-lfv/antonin-lfv/raw/main/images/ecg.png" alt="ECG_Generator" width="300px" align="left"/> </a> <a href="https://github.com/antonin-lfv/ECG_Generator"> <strong>🩺🫀 ECG Generator</strong>
 
-
 </a> <code>Deep Learning</code>
-
-
 
 Auto-encodeur variationnel convolutionnel conçu pour générer des <strong>électrocardiogrammes synthétiques</strong> et enrichir les datasets médicaux pour des pathologies rares. <br clear="all"> </p>
 
@@ -154,7 +151,7 @@ Réimplémentation <strong>from scratch</strong> de modèles de Machine Learning
 
 <br>
 
-<p align="left"> <a href="https://github.com/antonin-lfv/Dynamic_graph_neural_network/blob/main/README.md"> <img src="https://github.com/antonin-lfv/antonin-lfv/raw/main/images/dnn.png" alt="Dynamic GNN" width="300px" align="left"/> </a> <a href="https://github.com/antonin-lfv/Dynamic_graph_neural_network/blob/main/README.md"> <strong>🕸📰 Dynamic GNN</strong>
+<p align="left"> <a href="https://github.com/antonin-lfv/Dynamic_graph_neural_network/blob/main/README.md"> <img src="https://github.com/antonin-lfv/antonin-lfv/raw/main/images/DNN.png" alt="Dynamic GNN" width="300px" align="left"/> </a> <a href="https://github.com/antonin-lfv/Dynamic_graph_neural_network/blob/main/README.md"> <strong>🕸📰 Dynamic GNN</strong>
 
 
 </a> <code>Python</code>
