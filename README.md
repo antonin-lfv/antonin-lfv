@@ -122,7 +122,7 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 
 <p align="left">
   <a href="https://github.com/antonin-lfv/QMeans">
-    <img src="https://github.com/antonin-lfv/antonin-lfv/blob/main/images/qmeans.png?raw=true" width="300" align="left" alt="QMeans Quantum Algorithm" />
+    <img src="https://github.com/antonin-lfv/antonin-lfv/raw/main/images/qmeans.png" width="300" align="left" alt="QMeans Quantum Algorithm" />
   </a>
   <a href="https://github.com/antonin-lfv/QMeans">
     <strong>QMeans (Quantum KMeans)</strong><br>
