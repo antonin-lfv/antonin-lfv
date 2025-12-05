@@ -94,6 +94,13 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
   <strong>2025</strong>
 
   Introduction vulgarisée à l'Intelligence Artificielle et ses applications en santé, dans tous les domaines, de la radiologie à la génomique, en passant par la robotique chirurgicale et la médecine personnalisée.
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
 </p>
 
 <br>
