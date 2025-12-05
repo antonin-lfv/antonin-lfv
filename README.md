@@ -68,25 +68,6 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 ## <div align="center">Blog posts</div>
 
 <p align="left"> 
-  <a href="https://antonin-lfv.github.io/assets/pdf/IA&Sante.pdf"> 
-    <img src="https://github.com/antonin-lfv/antonin-lfv/raw/main/images/ia_sante.png" alt="IA Santé" width="300px" align="left"/> 
-  </a> 
-
-  <a href="https://antonin-lfv.github.io/assets/pdf/IA&Sante.pdf"> 
-    <br> 
-    <br>
-    <strong>Conférence sur l'Intelligence Artificielle et la Santé</strong>
-  </a> 
-
-  <strong>2025</strong>
-
-  Introduction vulgarisée à l'Intelligence Artificielle et ses applications en santé, dans tous les domaines, de la radiologie à la génomique, en passant par la robotique chirurgicale et la médecine personnalisée.
-  <br clear="all" />
-</p>
-
-<br>
-
-<p align="left"> 
   <a href="#"> 
     <img src="https://github.com/antonin-lfv/antonin-lfv/raw/main/images/tinyML.png" alt="TinyML" width="300px" align="left"/> 
   </a> 
@@ -97,9 +78,28 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
     <strong>Compression des modèles de Deep-Learning</strong>
   </a> 
 
-  <strong>2025</strong>
+  <strong>Publication: 2026</strong>
 
   Article expliquant différentes techniques de compression des modèles de Deep-Learning (Quantization, Pruning, Distillation) pour les déployer sur des dispositifs embarqués à ressources limitées. Et mise en oeuvre pratique avec le modèle `TinySpeech-M` sur Eliobot, un robot sous ESP32-S3.
+  <br clear="all" />
+</p>
+
+<br>
+
+<p align="left"> 
+  <a href="https://antonin-lfv.github.io/assets/pdf/IA&Sante.pdf"> 
+    <img src="https://github.com/antonin-lfv/antonin-lfv/raw/main/images/ia_sante.png" alt="IA Santé" width="300px" align="left"/> 
+  </a> 
+
+  <a href="https://antonin-lfv.github.io/assets/pdf/IA&Sante.pdf"> 
+    <br> 
+    <br>
+    <strong>Conférence sur l'Intelligence Artificielle et la Santé</strong>
+  </a> 
+
+  <strong>Publication: 2025</strong>
+
+  Introduction vulgarisée à l'Intelligence Artificielle et ses applications en santé, dans tous les domaines, de la radiologie à la génomique, en passant par la robotique chirurgicale et la médecine personnalisée.
   <br clear="all" />
 </p>
 
@@ -116,7 +116,7 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
     <strong>Modèle QMeans, version quantique de KMeans</strong>
   </a> 
 
-  <strong>2024</strong>
+  <strong>Publication: 2024</strong>
 
   Article présentant les concepts de l'informatique quantique et les applications en machine learning, notamment avec l'algorithme QMeans, la version quantique de KMeans. L'article implémente une version hybride classique/quantique en Qiskit avec une validation expérimentale sur de veritables ordinateurs quantiques.
   <br clear="all" />
