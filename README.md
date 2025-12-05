@@ -98,7 +98,7 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 
 <p align="left">
   <a href="https://github.com/antonin-lfv/ESP32-robot-piloting-with-TinySpeech">
-    <img src="https://socialify.git.ci/antonin-lfv/ESP32-robot-piloting-with-TinySpeech/image?custom_language=C&font=Inter&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Light" alt="ESP32-robot-piloting-with-TinySpeech" width="250" align="left"/>
+    <img src="https://github.com/antonin-lfv/antonin-lfv/raw/main/images/tinyspeech.png" alt="ESP32-robot-piloting-with-TinySpeech" width="250" align="left"/>
   </a>
   <a href="https://github.com/antonin-lfv/ESP32-robot-piloting-with-TinySpeech">
     <strong>🗣️🤖 ESP32 ElioBot Voice Control</strong><br>
