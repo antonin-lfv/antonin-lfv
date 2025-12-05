@@ -131,6 +131,8 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
   <br>
   <br>
   <br>
+  <br>
+  <br>
 </p>
 
 <br>
