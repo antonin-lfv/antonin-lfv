@@ -27,7 +27,7 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 
 <br>
 
-## <div align="center">Projets d'Intelligence Artificielle 📌</div>
+## <div align="center">Projets d'Intelligence Artificielle</div>
 
 🗣️🤖 [ESP32 ElioBot Voice Control](https://github.com/antonin-lfv/ESP32-robot-piloting-with-TinySpeech) `TinyML/C` • Système de **commande vocale embarquée** (hors-ligne) sur ESP32. Implémentation de **TinySpeech** avec quantification (Int8) et moteur d'inférence optimisé en C.
 
@@ -47,7 +47,7 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 
 <br>
 
-## <div align="center">Autres projets 📌</div>
+## <div align="center">Autres projets</div>
 
 🦠🧪 [Simulation Virus](https://github.com/antonin-lfv/simulation_virus_covid-19) `Modélisation` • Algorithme simulant la dynamique de **diffusion d'un virus** au sein d'une population avec un modèle probabiliste puis validation avec les modèles épidémiologiques de référence.
 
@@ -65,7 +65,7 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 
 <br>
 
-## <div align="center">Mes indispensables 📌</div>
+## <div align="center">Mes indispensables</div>
 
 🖥 [Streamlit Template](https://github.com/antonin-lfv/streamlit_template) • Base de projet optimisée.
 
@@ -77,20 +77,29 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 
 🧠 [Everything to Markdown](https://github.com/antonin-lfv/everything-in-markdown) • Convertisseur de documents (PDF, Docx...) vers Markdown.
 
-
 <br>
 
-## <div align="center">Mes liens 📌</div>
+## <div align="center">Blog posts</div>
 
-🔮 [Medium](https://medium.com/@antoninlefevre45) • Articles techniques et tutoriels.
+<p align="left"> 
+  <a href="https://antonin-lfv.github.io/assets/pdf/IA&Sante.pdf"> 
+    <img src="https://github.com/antonin-lfv/antonin-lfv/raw/main/images/ia_sante.png" alt="IA Santé" width="300px" align="left"/> 
+  </a> 
 
-📸 [Photographie](https://antonin-lfv.github.io/PhotographyWebsite/) • Galerie personnelle.
+  <a href="https://antonin-lfv.github.io/assets/pdf/IA&Sante.pdf"> 
+    <strong>Conférence sur l'Intelligence Artificielle et la Santé</strong>
+  </a> 
 
-🌐 [Site Web](https://antonin-lfv.github.io) • Portfolio professionnel et blog.
+  <strong>2025</strong>
 
-<br>
-
-<p align="right">
-  <a href="https://www.linkedin.com/in/antonin-lefevre-565b8b141" class="fancybox" ><img src="https://user-images.githubusercontent.com/63207451/97303444-b2c04380-185a-11eb-8cfc-864c33a64e4b.png" title="LinkedIn" width="40" height="40"></a>
-  <a href="mailto:antoninlefevre45@icloud.com" class="fancybox" ><img src="https://user-images.githubusercontent.com/63207451/97303543-cec3e500-185a-11eb-8adc-c1364e2054a9.png" title="Mail" width="40" height="40"></a>
+  Introduction vulgarisée à l'Intelligence Artificielle et ses applications en santé, dans tous les domaines, de la radiologie à la génomique, en passant par la robotique chirurgicale et la médecine personnalisée.
 </p>
+
+<br>
+
+<p align="center"> <sub>  
+<a href="https://medium.com/@antoninlefevre45">Blog Medium</a> •
+<a href="https://antonin-lfv.github.io/PhotographyWebsite/">Photographie</a> •
+<a href="https://antonin-lfv.github.io">Site Web Personnel</a> •
+<a href="https://www.linkedin.com/in/antonin-lefevre-565b8b141">LinkedIn</a>
+</sub> </p>
