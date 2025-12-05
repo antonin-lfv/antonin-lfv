@@ -110,14 +110,13 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 </p>
 
 <br>
-<br>
 
 <p align="left"> 
 <a href="https://github.com/antonin-lfv/QMeans"> <img src="https://github.com/antonin-lfv/antonin-lfv/raw/main/images/qmeans.png" alt="QMeans" width="300px" align="left"/> </a> <a href="https://github.com/antonin-lfv/QMeans"> <strong>⚛️📊 QMeans</strong>
 
 </a> <code>Qiskit</code>
 
-Implémentation de l'algorithme <strong>KMeans</strong> en version <strong>quantique</strong> avec Qiskit, accompagnée d'un <a href="https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780443290961000052?via%3Dihub">article scientifique</a> validant la théorie par le code et les mathématiques. <br clear="all"> 
+Implémentation de l'algorithme <strong>KMeans</strong> en version <strong>quantique</strong> avec Qiskit, accompagnée d'un <a href="https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780443290961000052?via%3Dihub">article scientifique</a> validant la théorie par le code et les mathématiques.
 </p>
 
 <br>
@@ -133,7 +132,7 @@ Auto-encodeur variationnel convolutionnel conçu pour générer des <strong>éle
 
 <br>
 
-<p align="left"> <a href="https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Anomalies_vibratoires_accelerometre_AE_debruitage/README.md"> <img src="https://socialify.git.ci/antonin-lfv/DataScience_IoT_projects/image?custom_language=Python&font=Inter&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Light&name_override=D%C3%A9tection%20d'anomalies%20IoT" alt="Détection d'anomalies" width="250" align="left"/> </a> <a href="https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Anomalies_vibratoires_accelerometre_AE_debruitage/README.md"> <strong>⚠️🔎 Détection d'anomalies</strong>
+<p align="left"> <a href="https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Anomalies_vibratoires_accelerometre_AE_debruitage/README.md"> <img src="https://github.com/antonin-lfv/antonin-lfv/raw/main/images/AE_debruitage.png" alt="Détection d'anomalies" width="300px" align="left"/> </a> <a href="https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Anomalies_vibratoires_accelerometre_AE_debruitage/README.md"> <strong>⚠️🔎 Détection d'anomalies</strong>
 
 
 </a> <code>IoT/Auto-encodeur</code>
@@ -144,7 +143,7 @@ Système de <strong>débruitage</strong> et d'<strong>analyse</strong> de donné
 
 <br>
 
-<p align="left"> <a href="https://github.com/antonin-lfv/rust_first_steps"> <img src="https://socialify.git.ci/antonin-lfv/rust_first_steps/image?custom_language=Rust&font=Inter&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Light" alt="ML in Rust" width="250" align="left"/> </a> <a href="https://github.com/antonin-lfv/rust_first_steps"> <strong>🦀🤖 ML in Rust</strong>
+<p align="left"> <a href="https://github.com/antonin-lfv/rust_first_steps"> <img src="https://github.com/antonin-lfv/antonin-lfv/raw/main/images/rust.png" alt="ML in Rust" width="300px" align="left"/> </a> <a href="https://github.com/antonin-lfv/rust_first_steps"> <strong>🦀🤖 ML in Rust</strong>
 
 
 </a> <code>Rust</code>
@@ -155,7 +154,7 @@ Réimplémentation <strong>from scratch</strong> de modèles de Machine Learning
 
 <br>
 
-<p align="left"> <a href="https://github.com/antonin-lfv/Dynamic_graph_neural_network/blob/main/README.md"> <img src="https://socialify.git.ci/antonin-lfv/Dynamic_graph_neural_network/image?custom_language=Python&font=Inter&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Light" alt="Dynamic GNN" width="250" align="left"/> </a> <a href="https://github.com/antonin-lfv/Dynamic_graph_neural_network/blob/main/README.md"> <strong>🕸📰 Dynamic GNN</strong>
+<p align="left"> <a href="https://github.com/antonin-lfv/Dynamic_graph_neural_network/blob/main/README.md"> <img src="https://github.com/antonin-lfv/antonin-lfv/raw/main/images/dnn.png" alt="Dynamic GNN" width="300px" align="left"/> </a> <a href="https://github.com/antonin-lfv/Dynamic_graph_neural_network/blob/main/README.md"> <strong>🕸📰 Dynamic GNN</strong>
 
 
 </a> <code>Python</code>
@@ -166,7 +165,7 @@ Réseau de neurones <strong>dynamique</strong> appliqué à la classification co
 
 <br>
 
-<p align="left"> <a href="https://github.com/antonin-lfv/Online_preprocessing_for_ML"> <img src="https://socialify.git.ci/antonin-lfv/Online_preprocessing_for_ML/image?custom_language=Python&font=Inter&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Light" alt="No-code Platform" width="250" align="left"/> </a> <a href="https://github.com/antonin-lfv/Online_preprocessing_for_ML"> <strong>🧠🌐 No-code Platform</strong>
+<p align="left"> <a href="https://github.com/antonin-lfv/Online_preprocessing_for_ML"> <img src="https://github.com/antonin-lfv/antonin-lfv/raw/main/images/aiplatform.png" alt="No-code Platform" width="300px" align="left"/> </a> <a href="https://github.com/antonin-lfv/Online_preprocessing_for_ML"> <strong>🧠🌐 No-code Platform</strong>
 
 
 </a> <code>Streamlit</code>
@@ -177,7 +176,7 @@ Application web pour effectuer les étapes du <strong>Machine Learning</strong> 
 
 <br>
 
-<p align="left"> <a href="https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Station_meteo_prediction_temps_ML/README.md"> <img src="https://socialify.git.ci/antonin-lfv/DataScience_IoT_projects/image?custom_language=C%2B%2B&font=Inter&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Light&name_override=Station%20M%C3%A9t%C3%A9o%20IoT" alt="Smart Weather" width="250" align="left"/> </a> <a href="https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Station_meteo_prediction_temps_ML/README.md"> <strong>🌨️☀️ Smart Weather</strong>
+<p align="left"> <a href="https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Station_meteo_prediction_temps_ML/README.md"> <img src="https://github.com/antonin-lfv/antonin-lfv/raw/main/images/smart_weither.png" alt="Smart Weather" width="300px" align="left"/> </a> <a href="https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Station_meteo_prediction_temps_ML/README.md"> <strong>🌨️☀️ Smart Weather</strong>
 
 
 </a> <code>MQTT/IoT</code>
