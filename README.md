@@ -104,6 +104,9 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
   <br>
   <br>
   <br>
+  <br>
+  <br>
+  <br>
 </p>
 
 <br>
@@ -121,9 +124,6 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
   <strong>2025</strong>
 
   Article présentant les concepts de l'informatique quantique et les applications en machine learning, notamment avec l'algorithme QMeans, la version quantique de KMeans. L'article implémente une version hybride classique/quantique en Qiskit avec une validation expérimentale sur de veritables ordinateurs quantiques.
-  <br>
-  <br>
-  <br>
   <br>
   <br>
   <br>
