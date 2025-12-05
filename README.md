@@ -139,7 +139,7 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 
 <p align="center"> <sub>  
 <a href="https://medium.com/@antoninlefevre45">Blog Medium</a> •
-<a href="https://antonin-lfv.github.io/PhotographyWebsite/">Photographie</a> •
-<a href="https://antonin-lfv.github.io">Site Web Personnel</a> •
+<a href="https://antonin-lfv.github.io/PhotographyWebsite/">Blog Photographie</a> •
+<a href="https://antonin-lfv.github.io">Site Web</a> •
 <a href="https://www.linkedin.com/in/antonin-lefevre-565b8b141">LinkedIn</a>
 </sub> </p>
