@@ -74,6 +74,7 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 
   <a href="https://antonin-lfv.github.io/assets/pdf/IA&Sante.pdf"> 
     <br> 
+    <br>
     <strong>Conférence sur l'Intelligence Artificielle et la Santé</strong>
   </a> 
 
@@ -92,6 +93,7 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 
   <a href="#"> 
     <br> 
+    <br>
     <strong>Compression des modèles de Deep-Learning</strong>
   </a> 
 
@@ -110,6 +112,7 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 
   <a href="https://antonin-lfv.github.io/assets/pdf/QMeans.pdf"> 
     <br> 
+    <br>
     <strong>Modèle QMeans, version quantique de KMeans</strong>
   </a> 
 
