@@ -25,7 +25,7 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 
 <br>
 
-### Projets d'Intelligence Artificielle 📌
+## <div align="center">Projets d'Intelligence Artificielle 📌</div>
 
 🗣️🤖 [ESP32 ElioBot Voice Control](https://github.com/antonin-lfv/ESP32-robot-piloting-with-TinySpeech) `TinyML/C` • Système de **commande vocale embarquée** (hors-ligne) sur ESP32. Implémentation de **TinySpeech** avec quantification (Int8) et moteur d'inférence optimisé en C.
 
@@ -45,7 +45,7 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 
 <br>
 
-### Autres Projets 📌
+## <div align="center">Autres projets 📌</div>
 
 🦠🧪 [Simulation Virus](https://github.com/antonin-lfv/simulation_virus_covid-19) `Modélisation` • Algorithme simulant la dynamique de **diffusion d'un virus** au sein d'une population avec un modèle probabiliste puis validation avec les modèles épidémiologiques de référence.
 
@@ -63,7 +63,7 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 
 <br>
 
-### Mes indispensables 📌
+## <div align="center">Mes indispensables 📌</div>
 
 🖥 [Streamlit Template](https://github.com/antonin-lfv/streamlit_template) • Base de projet optimisée.
 
@@ -78,7 +78,7 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 
 <br>
 
-### Mes liens 📌
+## <div align="center">Mes liens 📌</div>
 
 🔮 [Medium](https://medium.com/@antoninlefevre45) • Articles techniques et tutoriels.
 
