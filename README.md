@@ -113,7 +113,7 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 <br>
 
 <p align="left"> 
-<a href="https://github.com/antonin-lfv/QMeans"> <img src="https://github.com/antonin-lfv/antonin-lfv/raw/main/images/qmeans.png" alt="QMeans" width="250" align="left"/> </a> <a href="https://github.com/antonin-lfv/QMeans"> <strong>⚛️📊 QMeans</strong>
+<a href="https://github.com/antonin-lfv/QMeans"> <img src="https://github.com/antonin-lfv/antonin-lfv/raw/main/images/qmeans.png" alt="QMeans" width="300px" align="left"/> </a> <a href="https://github.com/antonin-lfv/QMeans"> <strong>⚛️📊 QMeans</strong>
 
 </a> <code>Qiskit</code>
 
@@ -122,7 +122,7 @@ Implémentation de l'algorithme <strong>KMeans</strong> en version <strong>quant
 
 <br>
 
-<p align="left"> <a href="https://github.com/antonin-lfv/ECG_Generator"> <img src="https://github.com/antonin-lfv/antonin-lfv/raw/main/images/ecg.png" alt="ECG_Generator" width="250" align="left"/> </a> <a href="https://github.com/antonin-lfv/ECG_Generator"> <strong>🩺🫀 ECG Generator</strong>
+<p align="left"> <a href="https://github.com/antonin-lfv/ECG_Generator"> <img src="https://github.com/antonin-lfv/antonin-lfv/raw/main/images/ecg.png" alt="ECG_Generator" width="300px" align="left"/> </a> <a href="https://github.com/antonin-lfv/ECG_Generator"> <strong>🩺🫀 ECG Generator</strong>
 
 
 </a> <code>Deep Learning</code>
