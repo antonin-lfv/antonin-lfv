@@ -96,12 +96,9 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 
 
 
-
-
-
 <p align="left">
   <a href="https://github.com/antonin-lfv/ESP32-robot-piloting-with-TinySpeech">
-    <img src="https://github.com/antonin-lfv/antonin-lfv/raw/main/images/eliobot.png" width="300" align="left" alt="ESP32 Voice Control" />
+    <img src="https://socialify.git.ci/antonin-lfv/ESP32-robot-piloting-with-TinySpeech/image?custom_language=C&font=Inter&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Light" alt="ESP32-robot-piloting-with-TinySpeech" width="320" height="160" align="left"/>
   </a>
   <a href="https://github.com/antonin-lfv/ESP32-robot-piloting-with-TinySpeech">
     <strong>ESP32 ElioBot Voice Control</strong><br>
@@ -118,144 +115,12 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
     <br>
 </p>
 
-<br>
+<hr>
 
-<p align="left">
-  <a href="https://github.com/antonin-lfv/QMeans">
-    <img src="https://github.com/antonin-lfv/antonin-lfv/raw/main/images/qmeans.png" width="300" align="left" alt="QMeans Quantum Algorithm" />
-  </a>
-  <a href="https://github.com/antonin-lfv/QMeans">
-    <strong>QMeans (Quantum KMeans)</strong><br>
-  </a>
-
-  <code>Qiskit</code> • <code>Quantum Computing</code>
-  <br><br>
-  Implémentation de l'algorithme <strong>KMeans</strong> en version <strong>quantique</strong> avec Qiskit. Accompagnée d'un <a href="https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780443290961000052?via%3Dihub">article scientifique</a> validant la théorie par le code et les mathématiques.
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
+<p align="left"> 
+<a href="https://github.com/antonin-lfv/QMeans"> <img src="https://socialify.git.ci/antonin-lfv/QMeans/image?custom_language=Python&font=Inter&language=1&name=1&owner=1&pattern=Signal&theme=Light" alt="QMeans" width="320" height="160" align="left"/> </a> <a href="https://github.com/antonin-lfv/QMeans"> <strong>⚛️📊 QMeans</strong>
+</a> <code>Qiskit</code>
+Implémentation de l'algorithme <strong>KMeans</strong> en version <strong>quantique</strong> avec Qiskit, accompagnée d'un <a href="https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780443290961000052?via%3Dihub">article scientifique</a> validant la théorie par le code et les mathématiques. <br clear="all"> 
 </p>
-<br>
 
-<p align="left">
-  <a href="https://github.com/antonin-lfv/ECG_Generator">
-    <img src="https://github.com/antonin-lfv/antonin-lfv/blob/main/images/ecg.png?raw=true" width="300" align="left" alt="ECG Generator" />
-  </a>
-  <a href="https://github.com/antonin-lfv/ECG_Generator">
-    <strong>ECG Generator</strong><br>
-  </a>
-
-  <code>Deep Learning</code> • <code>VAE</code>
-  <br><br>
-  Auto-encodeur variationnel convolutionnel conçu pour générer des <strong>électrocardiogrammes synthétiques</strong> et enrichir les datasets médicaux pour des pathologies rares.
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-</p>
-<br>
-
-<p align="left">
-  <a href="https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Anomalies_vibratoires_accelerometre_AE_debruitage/README.md">
-    <img src="https://github.com/antonin-lfv/antonin-lfv/blob/main/images/anomaly.png?raw=true" width="300" align="left" alt="Détection d'anomalies" />
-  </a>
-  <a href="https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Anomalies_vibratoires_accelerometre_AE_debruitage/README.md">
-    <strong>Détection d'anomalies IoT</strong><br>
-  </a>
-
-  <code>IoT</code> • <code>Auto-encodeur</code>
-  <br><br>
-  Système de <strong>débruitage</strong> et d'<strong>analyse</strong> de données <strong>vibratoires</strong> issues de capteurs accéléromètres (MPU-6050) à l'aide d'un Auto-encodeur de débruitage.
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-</p>
-<br>
-
-<p align="left">
-  <a href="https://github.com/antonin-lfv/rust_first_steps">
-    <img src="https://github.com/antonin-lfv/antonin-lfv/blob/main/images/rust.png?raw=true" width="300" align="left" alt="ML in Rust" />
-  </a>
-  <a href="https://github.com/antonin-lfv/rust_first_steps">
-    <strong>ML in Rust</strong><br>
-  </a>
-
-  <code>Rust</code> • <code>From Scratch</code>
-  <br><br>
-  Réimplémentation <strong>from scratch</strong> de modèles de Machine Learning pour maîtriser les fondements de l'IA avec la performance de Rust.
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-</p>
-<br>
-
-<p align="left">
-  <a href="https://github.com/antonin-lfv/Dynamic_graph_neural_network/blob/main/README.md">
-    <img src="https://github.com/antonin-lfv/antonin-lfv/blob/main/images/gnn.png?raw=true" width="300" align="left" alt="Dynamic GNN" />
-  </a>
-  <a href="https://github.com/antonin-lfv/Dynamic_graph_neural_network/blob/main/README.md">
-    <strong>Dynamic GNN</strong><br>
-  </a>
-
-  <code>Python</code> • <code>Graph Neural Networks</code>
-  <br><br>
-  Réseau de neurones <strong>dynamique</strong> appliqué à la classification complexe de signaux (chants d'oiseaux, ECG) basé sur un papier de recherche.
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-</p>
-<br>
-
-<p align="left">
-  <a href="https://github.com/antonin-lfv/Online_preprocessing_for_ML">
-    <img src="https://github.com/antonin-lfv/antonin-lfv/blob/main/images/nocode.png?raw=true" width="300" align="left" alt="No-code ML Platform" />
-  </a>
-  <a href="https://github.com/antonin-lfv/Online_preprocessing_for_ML">
-    <strong>No-code ML Platform</strong><br>
-  </a>
-
-  <code>Streamlit</code> • <code>AutoML</code>
-  <br><br>
-  Application web pour effectuer les étapes du <strong>Machine Learning</strong> sans nécessiter de compétences en programmation, avec Streamlit.
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-</p>
-<br>
-
-<p align="left">
-  <a href="https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Station_meteo_prediction_temps_ML/README.md">
-    <img src="https://github.com/antonin-lfv/antonin-lfv/blob/main/images/weather.png?raw=true" width="300" align="left" alt="Smart Weather Station" />
-  </a>
-  <a href="https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Station_meteo_prediction_temps_ML/README.md">
-    <strong>Smart Weather Station</strong><br>
-  </a>
-
-  <code>MQTT/IoT</code> • <code>Time Series</code>
-  <br><br>
-  <strong>Station météo connectée</strong> (BMP180, HTU21) avec interface de visualisation et prédiction en temps réel avec Streamlit.
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-</p>
-<br>
+<hr>
