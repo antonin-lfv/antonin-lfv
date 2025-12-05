@@ -12,9 +12,11 @@
 
 <br>
 
+<div align="center">
 Bienvenue sur mon profil GitHub !👋🏼</br>
 
 Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et **C**  dans des domaines autours des __Mathématiques__ 🧮, de l'__Intelligence Artificielle__ ⛏ et du __quantique__ ⚛️. Je m'intéresse également aux domaines de la __cybersécurité__ 💻 du __Web__ 🌐 et de la __robotique__/__électronique__ 🤖. 
+
 
 <br>
 
@@ -27,7 +29,11 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 
 ## <div align="center">Projets d'Intelligence Artificielle 📌</div>
 
-🗣️🤖 [ESP32 ElioBot Voice Control](https://github.com/antonin-lfv/ESP32-robot-piloting-with-TinySpeech) `TinyML/C` • Système de **commande vocale embarquée** (hors-ligne) sur ESP32. Implémentation de **TinySpeech** avec quantification (Int8) et moteur d'inférence optimisé en C.
+🗣️🤖 [ESP32 ElioBot Voice Control](https://github.com/antonin-lfv/ESP32-robot-piloting-with-TinySpeech) 
+
+`TinyML/C`
+
+Système de **commande vocale embarquée** (hors-ligne) sur ESP32. Implémentation de **TinySpeech** avec quantification (Int8) et moteur d'inférence optimisé en C.
 
 ⚛️📊 [QMeans](https://github.com/antonin-lfv/QMeans) `Qiskit` • Implémentation de l'algorithme **KMeans** en version **quantique** avec Qiskit, accompagnée d'un [article scientifique](https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780443290961000052?via%3Dihub) validant la théorie par le code et les mathématiques.
 
@@ -85,6 +91,8 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 📸 [Photographie](https://antonin-lfv.github.io/PhotographyWebsite/) • Galerie personnelle.
 
 🌐 [Site Web](https://antonin-lfv.github.io) • Portfolio professionnel et blog.
+
+</div>
 
 <br>
 
