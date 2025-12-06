@@ -97,7 +97,7 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
     <strong>Conférence sur l'Intelligence Artificielle et la Santé</strong>
   </a> 
 
-  <strong>Publication: 2025</strong>
+  <strong>Publication: 2025 | Pages: 45</strong>
 
   Introduction vulgarisée à l'Intelligence Artificielle et ses applications en santé, dans tous les domaines, de la radiologie à la génomique, en passant par la robotique chirurgicale et la médecine personnalisée.
   <br clear="all" />
@@ -116,7 +116,7 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
     <strong>Modèle QMeans, version quantique de KMeans</strong>
   </a> 
 
-  <strong>Publication: 2024</strong>
+  <strong>Publication: 2024 | Pages: 56</strong>
 
   Article présentant les concepts de l'informatique quantique et les applications en machine learning, notamment avec l'algorithme QMeans, la version quantique de KMeans. L'article implémente une version hybride classique/quantique en Qiskit avec une validation expérimentale sur de veritables ordinateurs quantiques.
   <br clear="all" />
