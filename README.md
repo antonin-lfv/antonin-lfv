@@ -65,6 +65,12 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 
 <br>
 
+<p align="right"> <sub>  
+<a href="https://antonin-lfv.github.io/projects/">Voir tous les autres projets</a>
+</sub> </p>
+
+<br>
+
 ## <div align="center">Blog posts</div>
 
 <p align="left"> 
@@ -121,6 +127,12 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
   Article présentant les concepts de l'informatique quantique et les applications en machine learning, notamment avec l'algorithme QMeans, la version quantique de KMeans. L'article implémente une version hybride classique/quantique en Qiskit avec une validation expérimentale sur de veritables ordinateurs quantiques.
   <br clear="all" />
 </p>
+
+<br>
+
+<p align="right"> <sub>  
+<a href="https://antonin-lfv.github.io/publications/">Voir toutes les publications</a>
+</sub> </p>
 
 <br>
 
