@@ -113,7 +113,7 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 
 <br>
 
-<p align="right"> 
+<p align="left"> 
   <a href="https://antonin-lfv.github.io/assets/pdf/QMeans.pdf"> 
     <img src="https://github.com/antonin-lfv/antonin-lfv/raw/main/images/qmeans.png" alt="QMeans" width="300px" align="left"/> 
   </a> 
