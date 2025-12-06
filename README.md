@@ -94,24 +94,26 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 
 <p align="left"> 
   <a href="https://antonin-lfv.github.io/assets/pdf/IA&Sante.pdf"> 
-    <img src="https://github.com/antonin-lfv/antonin-lfv/raw/main/images/ia_sante.png" alt="IA Santé" width="300px" align="left"/> 
+    <img src="https://github.com/antonin-lfv/antonin-lfv/raw/main/images/ia_sante.png" alt="IA Santé" width="300px" align="right"/> 
   </a> 
 
   <a href="https://antonin-lfv.github.io/assets/pdf/IA&Sante.pdf"> 
     <br> 
-    <br>
     <strong>Conférence sur l'Intelligence Artificielle et la Santé</strong>
   </a> 
+  <br>
 
   <strong>Publication: 2025 | Pages: 45</strong>
+  <br><br>
 
   Introduction vulgarisée à l'Intelligence Artificielle et ses applications en santé, dans tous les domaines, de la radiologie à la génomique, en passant par la robotique chirurgicale et la médecine personnalisée.
+  
   <br clear="all" />
 </p>
 
 <br>
 
-<p align="left"> 
+<p align="right"> 
   <a href="https://antonin-lfv.github.io/assets/pdf/QMeans.pdf"> 
     <img src="https://github.com/antonin-lfv/antonin-lfv/raw/main/images/qmeans.png" alt="QMeans" width="300px" align="left"/> 
   </a> 
