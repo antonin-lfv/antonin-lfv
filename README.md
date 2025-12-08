@@ -15,7 +15,7 @@
 <div align="center">
 Bienvenue sur mon profil GitHub !👋🏼</br>
 
-Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et **C**  dans des domaines autours des __Mathématiques__ 🧮, de l'__Intelligence Artificielle__ ⛏ et du __quantique__ ⚛️. Je m'intéresse également aux domaines de la __cybersécurité__ 💻 du __Web__ 🌐 et de la __robotique__/__électronique__ 🤖. 
+Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et **C** 🌀 dans des domaines autours des __Mathématiques__ 🧮, du __Machine Learning__ ⛏ et du __quantique__ ⚛️. Je m'intéresse également aux domaines de la __cybersécurité__ 💻 du __Web__ 🌐 et de la __robotique__/__électronique__ 🤖. 
 </div>
 
 <br>
