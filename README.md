@@ -86,7 +86,7 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 
   <strong>Publication: 2026</strong>
 
-  Article expliquant différentes techniques de compression des modèles de Deep-Learning (Quantization, Pruning, Distillation) pour les déployer sur des dispositifs embarqués à ressources limitées. Et mise en oeuvre pratique avec le modèle `TinySpeech-M` sur Eliobot, un robot sous ESP32-S3.
+  Article technique sur le `TinyML` et l'optimisation des réseaux de neurones pour les environnements contraints. Le contenu détaille les méthodes de compression majeures telles que la **Quantization** (PTQ et QAT), le **Pruning** et la **Distillation**, ainsi que les architectures légères type MobileNetV2. Le projet inclut l'implémentation du modèle TinySpeech-M avec PyTorch, suivie de sa conversion via un compilateur C personnalisé pour un déploiement effectif sur le microcontrôleur ESP32-S3 du robot Eliobot.
   <br clear="all" />
 </p>
 
@@ -106,7 +106,7 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
   <strong>Publication: 2025 | Pages: 45</strong>
   <br><br>
 
-  Introduction vulgarisée à l'Intelligence Artificielle et ses applications en santé, dans tous les domaines, de la radiologie à la génomique, en passant par la robotique chirurgicale et la médecine personnalisée.
+  Support rédigé d'une conférence de vulgarisation destinée à un public de professionnels de santé. Le document introduit les concepts fondamentaux de l'IA, son histoire et ses mécanismes d'apprentissage. Il propose ensuite une analyse transversale des applications médicales concrètes, couvrant l'aide au diagnostic (radiologie, oncologie), la chirurgie robot-assistée, l'optimisation des prescriptions ainsi que l'accélération de la recherche pharmaceutique.
   
   <br clear="all" />
 </p>
@@ -126,7 +126,7 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 
   <strong>Publication: 2024 | Pages: 56</strong>
 
-  Article présentant les concepts de l'informatique quantique et les applications en machine learning, notamment avec l'algorithme QMeans, la version quantique de KMeans. L'article implémente une version hybride classique/quantique en Qiskit avec une validation expérimentale sur de veritables ordinateurs quantiques.
+  Implémentation de l'algorithme Q-Means, adaptation quantique des méthodes de clustering K-Means et Delta-K-Means. L'article établit le lien entre informatique quantique et Machine Learning à travers une architecture hybride (classique/quantique) concrètement implémentable. Sont détaillés : la formulation mathématique, la conception des circuits quantiques (calcul de distance, recherche de minimum, initialisation K-Means++) et l'implémentation complète réalisée sous Qiskit.
   <br clear="all" />
 </p>
 
