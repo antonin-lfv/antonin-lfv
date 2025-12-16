@@ -78,7 +78,7 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
     <img src="https://github.com/antonin-lfv/antonin-lfv/raw/main/images/tinyML.png" alt="TinyML" width="300px" align="left"/> 
   </a> 
 
-  <a href="#"> 
+  <a href="https://antonin-lfv.github.io/assets/pdf/TinyML.pdf"> 
     <br> 
     <br>
     <strong>Compression des modèles de Deep-Learning</strong>
