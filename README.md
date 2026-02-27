@@ -49,6 +49,9 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 
 ## <div align="center">Autres projets</div>
 
+🤖🧩 [Eliobot Framework](https://github.com/antonin-lfv/Eliobot-Framework) `CircuitPython/FastAPI` • Framework complet pour programmer le robot **Eliobot** (ESP32-S3).
+  Architecture auto-discovery des programmes, programmation On Edge, dashboard **FastAPI + WebSocket** temps réel, contrôle MQTT multi-modes (manuel, exploration autonome, suivi de ligne IR).
+
 🦠🧪 [Simulation Virus](https://github.com/antonin-lfv/simulation_virus_covid-19) `Modélisation` • Algorithme simulant la dynamique de **diffusion d'un virus** au sein d'une population avec un modèle probabiliste puis validation avec les modèles épidémiologiques de référence.
 
 ⛏️🪙 [QuantumChain](https://github.com/antonin-lfv/QuantumChain) `Flask/Multi-threading` • Simulateur de **Blockchain PoW** complet avec une version de démonstration sur un seul PC et une version **online** avec le protocole **MQTT**.
