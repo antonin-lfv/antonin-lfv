@@ -21,11 +21,6 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 
 <br>
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/antonin-lfv?label=Total%20Stars" alt="stars"> &nbsp
-  <img src="https://img.shields.io/github/followers/antonin-lfv?label=Followers" alt="followers">
-</p>
-
 <br>
 
 ## <div align="center">Projets d'Intelligence Artificielle</div>
