@@ -62,6 +62,8 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 
 🏀🧑🏼‍🏫 [BasketBall Coach](https://github.com/antonin-lfv/BasketBallCoach) `Animation` • Générateur vidéo de systèmes offensifs utilisant le moteur **Manim** pour créer des animations tactiques professionnelles.
 
+🧾🧮 [ProCompta](https://github.com/antonin-lfv/ProCompta) `Logiciel` • Logiciel auto-hébergé pour gérer les documents comptables (factures, relevés, contrats, bulletins de salaire…) suivre les dépenses, recettes, bilans, etc.
+
 <br>
 
 <p align="right"> <sub>  
