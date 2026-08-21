@@ -23,7 +23,7 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 
 <br>
 
-## <div align="center">Projets d'Intelligence Artificielle</div>
+## <div align="center">Intelligence Artificielle</div>
 
 🗣️🤖 [ESP32 ElioBot Voice Control](https://github.com/antonin-lfv/ESP32-robot-piloting-with-TinySpeech) `TinyML/C` • Système de **commande vocale embarquée** (hors-ligne) sur ESP32. Implémentation de **TinySpeech** avec quantification (Int8) et moteur d'inférence optimisé en C.
 
@@ -39,20 +39,34 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 
 🧠🌐 [No-code Platform](https://github.com/antonin-lfv/Online_preprocessing_for_ML) `Streamlit` • Application web pour effectuer les étapes du **Machine Learning** sans nécessiter de compétences en programmation, avec Streamlit.
 
+<br>
+
+## <div align="center">Électronique</div>
+
+🤖🧩 [Eliobot Framework](https://github.com/antonin-lfv/Eliobot-Framework) `CircuitPython/FastAPI` • Framework complet pour programmer le robot **Eliobot** (ESP32-S3).
+  Architecture auto-discovery des programmes, programmation On Edge, dashboard **FastAPI + WebSocket** temps réel, contrôle MQTT multi-modes (manuel, exploration autonome, suivi de ligne IR).
+
 🌨️☀️ [Smart Weather](https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Station_meteo_prediction_temps_ML/README.md) `MQTT/IoT` • **Station météo connectée** (BMP180, HTU21) avec interface de visualisation et prédiction en temps réel avec Streamlit.
+
+🏗️🏢 [Structure 3D](https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Deformation_structure/README.md) `Physique` • Calcul et visualisation 3D **temps réel** (Courbes de Bézier) des déformations structurelles via capteurs inertiels **MPU-6050**.
+
+<br>
+
+## <div align="center">Logiciels</div>
+
+🏀🧑🏼‍🏫 [BasketBall Coach](https://github.com/antonin-lfv/BasketBallCoach) `Animation` • Générateur vidéo de systèmes offensifs dans le navigateur pour créer des animations tactiques professionnelles.
+
+🧾🧮 [ProCompta](https://github.com/antonin-lfv/ProCompta) `Logiciel` • Logiciel auto-hébergé pour gérer les documents comptables (factures, relevés, contrats, bulletins de salaire…) suivre les dépenses, recettes, bilans, etc.
+
+🪐📸 _AstroCapture_ `C++/Qt/QML/Python` • application d'acquisition pour caméras astronomiques. Cible initiale : acquisition couleur fiable depuis une Celestron NexImage 5 sur macOS.
 
 <br>
 
 ## <div align="center">Autres projets</div>
 
-🤖🧩 [Eliobot Framework](https://github.com/antonin-lfv/Eliobot-Framework) `CircuitPython/FastAPI` • Framework complet pour programmer le robot **Eliobot** (ESP32-S3).
-  Architecture auto-discovery des programmes, programmation On Edge, dashboard **FastAPI + WebSocket** temps réel, contrôle MQTT multi-modes (manuel, exploration autonome, suivi de ligne IR).
-
 🦠🧪 [Simulation Virus](https://github.com/antonin-lfv/simulation_virus_covid-19) `Modélisation` • Algorithme simulant la dynamique de **diffusion d'un virus** au sein d'une population avec un modèle probabiliste puis validation avec les modèles épidémiologiques de référence.
 
 ⛏️🪙 [QuantumChain](https://github.com/antonin-lfv/QuantumChain) `Flask/Multi-threading` • Simulateur de **Blockchain PoW** complet avec une version de démonstration sur un seul PC et une version **online** avec le protocole **MQTT**.
-
-🏗️🏢 [Structure 3D](https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Deformation_structure/README.md) `Physique` • Calcul et visualisation 3D **temps réel** (Courbes de Bézier) des déformations structurelles via capteurs inertiels **MPU-6050**.
 
 📈📚 [Plotly Tutorial](https://github.com/antonin-lfv/Plotly_tutorial) `Data Viz` • Guide exhaustif pour maîtriser la **visualisation interactive** : graphiques financiers, 3D, cartographie et outils pour le Machine Learning.
 
@@ -60,9 +74,7 @@ Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et *
 
 🎮🧌 [Bonx Monsters](https://github.com/antonin-lfv/Bonx_monsters) `Game Dev` • RPG web complet (Flask/SQLAlchemy) : collection de monstres, combats de boss et exploration de donjons.
 
-🏀🧑🏼‍🏫 [BasketBall Coach](https://github.com/antonin-lfv/BasketBallCoach) `Animation` • Générateur vidéo de systèmes offensifs dans le navigateur pour créer des animations tactiques professionnelles.
-
-🧾🧮 [ProCompta](https://github.com/antonin-lfv/ProCompta) `Logiciel` • Logiciel auto-hébergé pour gérer les documents comptables (factures, relevés, contrats, bulletins de salaire…) suivre les dépenses, recettes, bilans, etc.
+🚜🌱 [Simulation d'exploitation agricole](https://github.com/antonin-lfv/FarmerSimulator) `Simulateur` • **Gestion d'une exploitation agricole**, gestion des risques environnementaux, des cours des céréales, etc.
 
 <br>
 
