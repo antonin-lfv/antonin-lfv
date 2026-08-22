@@ -16,7 +16,12 @@
 <div align="center">
 Bienvenue sur mon profil GitHub !👋🏼</br>
 
-Passionné de technologies, je navigue entre **Python** 🐍, **Rust** 🦀 et **C** 🌀 dans des domaines autours des __Mathématiques__ 🧮, du __Machine Learning__ ⛏ et du __quantique__ ⚛️. Je m'intéresse également aux domaines de la __cybersécurité__ 💻 du __Web__ 🌐 et de la __robotique__/__électronique__ 🤖. 
+<b>Ingénieur IA et formateur technique</b>, j'apprends en reconstruisant, souvent <b>from scratch</b>, du circuit électronique jusqu'au modèle de langage. J'explore le <b>Machine / Deep Learning</b> 🧠, l'<b>informatique quantique</b> ⚛️, l'<b>edge AI / TinyML</b> sur <b>ESP32</b> 📟, le <b>data engineering</b> 🛠, le <b>Cloud</b> ☁️ et l'<b>IA générative</b> ✨.
+
+
+Le tout entre <b>Python</b> 🐍, <b>Rust</b> 🦀 et <b>C / C++</b> 🌀, avec un pied dans le <b>Web</b> 🌐 et l'<b>électronique</b> 🤖.</br>
+</br>
+</br>
 </div>
 
 <br>
