@@ -61,6 +61,8 @@ Le tout entre <b>Python</b> 🐍, <b>Rust</b> 🦀 et <b>C / C++</b> 🌀, avec 
 
 🏀🧑🏼‍🏫 [BasketBall Coach](https://github.com/antonin-lfv/BasketBallCoach) `Animation` • Générateur vidéo de systèmes offensifs dans le navigateur pour créer des animations tactiques professionnelles.
 
+🏀⏱️ [eMarque Club](https://github.com/antonin-lfv/eMarqueClub) `Next.js/Cloudflare` • Table de marque pour les tournois internes et corpo de basket : score en direct, chrono, statistiques et export CSV.
+
 🧾🧮 [ProCompta](https://github.com/antonin-lfv/ProCompta) `Logiciel` • Logiciel auto-hébergé pour gérer les documents comptables (factures, relevés, contrats, bulletins de salaire…) suivre les dépenses, recettes, bilans, etc.
 
 🪐📸 _AstroCapture_ `C++/Qt/QML/Python` • application d'acquisition pour caméras astronomiques. Cible initiale : acquisition couleur fiable depuis une Celestron NexImage 5 sur macOS.
