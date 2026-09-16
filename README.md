@@ -49,7 +49,7 @@ Le tout entre <b>Python</b> 🐍, <b>Rust</b> 🦀 et <b>C / C++</b> 🌀, avec 
 ## <div align="center">Électronique</div>
 
 🤖🧩 [Eliobot Framework](https://github.com/antonin-lfv/Eliobot-Framework) `CircuitPython/FastAPI` • Framework complet pour programmer le robot **Eliobot** (ESP32-S3).
-  Architecture auto-discovery des programmes, programmation On Edge, dashboard **FastAPI + WebSocket** temps réel, contrôle MQTT multi-modes (manuel, exploration autonome, suivi de ligne IR).
+  Architecture auto-discovery des programmes, programmation On Edge, dashboard **FastAPI + WebSocket** temps réel, contrôle MQTT multi-modes (manuel, exploration autonome, suivi de ligne IR), agent MCP et déplacement grâce au Connectome d'une mouche.
 
 🌨️☀️ [Smart Weather](https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Station_meteo_prediction_temps_ML/README.md) `MQTT/IoT` • **Station météo connectée** (BMP180, HTU21) avec interface de visualisation et prédiction en temps réel avec Streamlit.
 
