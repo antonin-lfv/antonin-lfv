@@ -65,7 +65,7 @@ Le tout entre <b>Python</b> 🐍, <b>Rust</b> 🦀 et <b>C / C++</b> 🌀, avec 
 
 🧾🧮 [ProCompta](https://github.com/antonin-lfv/ProCompta) `Logiciel` • Logiciel auto-hébergé pour gérer les documents comptables (factures, relevés, contrats, bulletins de salaire…) suivre les dépenses, recettes, bilans, etc.
 
-🪐📸 [AstroCapture](https://github.com/antonin-lfv/AstroCapture) `C++/Qt/QML/Python` • application d'acquisition pour caméras astronomiques. Cible initiale : acquisition couleur fiable depuis une Celestron NexImage 5 sur macOS.
+🪐📸 [AstroCapture](https://github.com/antonin-lfv/AstroCapture) `C++/Qt/QML/Python` • Logiciel d’acquisition et de traitement d’images astronomiques. Intègre la planification des observations, l’alignement et l’empilement des images planétaires et du ciel profond, ainsi que l’assemblage de mosaïques.
 
 <br>
 
