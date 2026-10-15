@@ -28,30 +28,46 @@ Le tout entre <b>Python</b> 🐍, <b>Rust</b> 🦀 et <b>C / C++</b> 🌀, avec 
 
 <br>
 
+## <div align="center">Projets importants</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<b><a href="https://github.com/antonin-lfv/AstroCapture">🪐 AstroCapture</a></b> <code>C++/Qt/Metal</code>
+<br>Logiciel d'astrophotographie pour Mac et Linux : planification des observations, capture, empilement planétaire et ciel profond, mosaïques.
+</td>
+<td width="50%" valign="top">
+<b><a href="https://github.com/antonin-lfv/Eliobot-Framework">🤖 Eliobot Framework</a></b> <code>CircuitPython/FastAPI/MCP</code>
+<br>Framework complet pour le robot Eliobot (ESP32-S3) : programmes On Edge, dashboard temps réel via MQTT, agent IA en MCP et pilotage par le connectome d'une mouche.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<b><a href="https://github.com/antonin-lfv/QMeans">⚛️ QMeans</a></b> <code>Qiskit</code>
+<br>K-Means quantique hybride validé sur le matériel IBM, publié comme chapitre dans <i>Quantum Computing</i> (Morgan Kaufmann, 2025) : <a href='https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780443290961000052'>article</a>.
+</td>
+<td width="50%" valign="top">
+<b><a href="https://github.com/antonin-lfv/ESP32-robot-piloting-with-TinySpeech">🗣️ ESP32 ElioBot Voice Control</a></b> <code>TinyML/C</code>
+<br>Commande vocale hors-ligne sur ESP32-S3 : TinySpeech entraîné en QAT, quantifié en Int8, et moteur d'inférence écrit en C.
+</td>
+</tr>
+</table>
+
+<br>
+
 ## <div align="center">Intelligence Artificielle</div>
-
-🗣️🤖 [ESP32 ElioBot Voice Control](https://github.com/antonin-lfv/ESP32-robot-piloting-with-TinySpeech) `TinyML/C` • Système de **commande vocale embarquée** (hors-ligne) sur ESP32. Implémentation de **TinySpeech** avec quantification (Int8) et moteur d'inférence optimisé en C.
-
-⚛️📊 [QMeans](https://github.com/antonin-lfv/QMeans) `Qiskit` • Implémentation de l'algorithme **KMeans** en version **quantique** avec Qiskit, accompagnée d'un [article scientifique](https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780443290961000052?via%3Dihub) validant la théorie par le code et les mathématiques.
 
 🩺🫀 [ECG Generator](https://github.com/antonin-lfv/ECG_Generator) `Deep Learning` • Auto-encodeur variationnel convolutionnel conçu pour générer des **électrocardiogrammes synthétiques** et enrichir les datasets médicaux pour des pathologies rares.
 
 ⚠️🔎 [Détection d'anomalies](https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Anomalies_vibratoires_accelerometre_AE_debruitage/README.md) `IoT/Auto-encodeur` • Système de **débruitage** et d'**analyse** de données **vibratoires** issues de capteurs accéléromètres (MPU-6050) à l'aide d'un Auto-encodeur de débruitage.
 
-🦀🤖 [ML in Rust](https://github.com/antonin-lfv/rust_first_steps) `Rust` • Réimplémentation **from scratch** de modèles de Machine Learning pour maîtriser les fondements de l'IA avec la performance de Rust.
-
-🕸📰 [Dynamic GNN](https://github.com/antonin-lfv/Dynamic_graph_neural_network/blob/main/README.md) `Python` • Réseau de neurones **dynamique** appliqué à la classification complexe de signaux (chants d'oiseaux, ECG) basé sur un papier de recherche.
-
-🧠🌐 [No-code Platform](https://github.com/antonin-lfv/Online_preprocessing_for_ML) `Streamlit` • Application web pour effectuer les étapes du **Machine Learning** sans nécessiter de compétences en programmation, avec Streamlit.
+🦀🤖 [ML in Rust](https://github.com/antonin-lfv/rust_first_steps) `Rust` • Apprentissage de Rust en codant du Machine Learning **from scratch** : régression linéaire par **SVD**, K-Means (en cours), algèbre linéaire avec nalgebra et ndarray.
 
 <br>
 
 ## <div align="center">Électronique</div>
 
-🤖🧩 [Eliobot Framework](https://github.com/antonin-lfv/Eliobot-Framework) `CircuitPython/FastAPI` • Framework complet pour programmer le robot **Eliobot** (ESP32-S3).
-  Architecture auto-discovery des programmes, programmation On Edge, dashboard **FastAPI + WebSocket** temps réel, contrôle MQTT multi-modes (manuel, exploration autonome, suivi de ligne IR), agent MCP et déplacement grâce au Connectome d'une mouche.
-
-🌨️☀️ [Smart Weather](https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Station_meteo_prediction_temps_ML/README.md) `MQTT/IoT` • **Station météo connectée** (BMP180, HTU21) avec interface de visualisation et prédiction en temps réel avec Streamlit.
+🌨️☀️ [Smart Weather](https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Station_meteo_prediction_temps_ML/README.md) `MQTT/IoT` • **Station météo connectée** (BMP180, HTU21) avec dashboard Streamlit temps réel et prévision de la température par régression polynomiale.
 
 🏗️🏢 [Structure 3D](https://github.com/antonin-lfv/DataScience_IoT_projects/blob/main/Projets/Deformation_structure/README.md) `Physique` • Calcul et visualisation 3D **temps réel** (Courbes de Bézier) des déformations structurelles via capteurs inertiels **MPU-6050**.
 
@@ -65,23 +81,34 @@ Le tout entre <b>Python</b> 🐍, <b>Rust</b> 🦀 et <b>C / C++</b> 🌀, avec 
 
 🧾🧮 [ProCompta](https://github.com/antonin-lfv/ProCompta) `Logiciel` • Logiciel auto-hébergé pour gérer les documents comptables (factures, relevés, contrats, bulletins de salaire…) suivre les dépenses, recettes, bilans, etc.
 
-🪐📸 [AstroCapture](https://github.com/antonin-lfv/AstroCapture) `C++/Qt/QML/Python` • Logiciel d’acquisition et de traitement d’images astronomiques. Intègre la planification des observations, l’alignement et l’empilement des images planétaires et du ciel profond, ainsi que l’assemblage de mosaïques.
-
 <br>
 
 ## <div align="center">Autres projets</div>
 
-🦠🧪 [Simulation Virus](https://github.com/antonin-lfv/simulation_virus_covid-19) `Modélisation` • Algorithme simulant la dynamique de **diffusion d'un virus** au sein d'une population avec un modèle probabiliste puis validation avec les modèles épidémiologiques de référence.
-
 ⛏️🪙 [QuantumChain](https://github.com/antonin-lfv/QuantumChain) `Flask/Multi-threading` • Simulateur de **Blockchain PoW** complet avec une version de démonstration sur un seul PC et une version **online** avec le protocole **MQTT**.
-
-📈📚 [Plotly Tutorial](https://github.com/antonin-lfv/Plotly_tutorial) `Data Viz` • Guide exhaustif pour maîtriser la **visualisation interactive** : graphiques financiers, 3D, cartographie et outils pour le Machine Learning.
 
 🪙💰 [CryptoPlatform](https://github.com/antonin-lfv/CryptoPlatform) `Flask` • Écosystème gamifié complet : simulation de trading à levier, gestion de ferme de minage et marketplace NFT, synchronisé sur les cours réels.
 
 🎮🧌 [Bonx Monsters](https://github.com/antonin-lfv/Bonx_monsters) `Game Dev` • RPG web complet (Flask/SQLAlchemy) : collection de monstres, combats de boss et exploration de donjons.
 
 🚜🌱 [Simulation d'exploitation agricole](https://github.com/antonin-lfv/FarmerSimulator) `Simulateur` • **Gestion d'une exploitation agricole**, gestion des risques environnementaux, des cours des céréales, etc.
+
+<br>
+
+<details>
+<summary><b>Projets plus anciens (2020-2022)</b></summary>
+
+<br>
+
+🧠🌐 [No-code Platform](https://github.com/antonin-lfv/Online_preprocessing_for_ML) `Streamlit` • Application web pour effectuer les étapes du **Machine Learning** sans nécessiter de compétences en programmation, avec Streamlit.
+
+🕸📰 [Dynamic GNN](https://github.com/antonin-lfv/Dynamic_graph_neural_network/blob/main/README.md) `Python` • Réseau de neurones **dynamique** appliqué à la classification complexe de signaux (chants d'oiseaux, ECG) basé sur un papier de recherche.
+
+🦠🧪 [Simulation Virus](https://github.com/antonin-lfv/simulation_virus_covid-19) `Modélisation` • Algorithme simulant la dynamique de **diffusion d'un virus** au sein d'une population avec un modèle probabiliste puis validation avec les modèles épidémiologiques de référence.
+
+📈📚 [Plotly Tutorial](https://github.com/antonin-lfv/Plotly_tutorial) `Data Viz` • Guide exhaustif pour maîtriser la **visualisation interactive** : graphiques financiers, 3D, cartographie et outils pour le Machine Learning.
+
+</details>
 
 <br>
 
