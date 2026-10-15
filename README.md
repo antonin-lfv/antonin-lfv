@@ -33,22 +33,22 @@ Le tout entre <b>Python</b> 🐍, <b>Rust</b> 🦀 et <b>C / C++</b> 🌀, avec 
 <table>
 <tr>
 <td width="50%" valign="top">
-<b><a href="https://github.com/antonin-lfv/AstroCapture">🪐 AstroCapture</a></b> <code>C++/Qt/Metal</code>
-<br>Logiciel d'astrophotographie pour Mac et Linux : planification des observations, capture, empilement planétaire et ciel profond, mosaïques.
+<p align="center"><b><a href="https://github.com/antonin-lfv/AstroCapture">🪐 AstroCapture</a></b><br><sub><code>C++/Qt/Metal</code></sub></p>
+<p align="left">Logiciel d'astrophotographie pour Mac et Linux : planification des observations, capture, empilement planétaire et ciel profond, mosaïques.</p>
 </td>
 <td width="50%" valign="top">
-<b><a href="https://github.com/antonin-lfv/Eliobot-Framework">🤖 Eliobot Framework</a></b> <code>CircuitPython/FastAPI/MCP</code>
-<br>Framework complet pour le robot Eliobot (ESP32-S3) : programmes On Edge, dashboard temps réel via MQTT, agent IA en MCP et pilotage par le connectome d'une mouche.
+<p align="center"><b><a href="https://github.com/antonin-lfv/Eliobot-Framework">🤖 Eliobot Framework</a></b><br><sub><code>CircuitPython/FastAPI/MCP</code></sub></p>
+<p align="left">Framework complet pour le robot Eliobot (ESP32-S3) : programmes On Edge, dashboard temps réel via MQTT, agent IA en MCP et pilotage par le connectome d'une mouche.</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<b><a href="https://github.com/antonin-lfv/QMeans">⚛️ QMeans</a></b> <code>Qiskit</code>
-<br>K-Means quantique hybride validé sur le matériel IBM, publié comme chapitre dans <i>Quantum Computing</i> (Morgan Kaufmann, 2025) : <a href='https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780443290961000052'>article</a>.
+<p align="center"><b><a href="https://github.com/antonin-lfv/QMeans">⚛️ QMeans</a></b><br><sub><code>Qiskit</code></sub></p>
+<p align="left">K-Means quantique hybride validé sur le matériel IBM, publié comme chapitre dans <i>Quantum Computing</i> (Morgan Kaufmann, 2025) : <a href='https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780443290961000052'>article</a>.</p>
 </td>
 <td width="50%" valign="top">
-<b><a href="https://github.com/antonin-lfv/ESP32-robot-piloting-with-TinySpeech">🗣️ ESP32 ElioBot Voice Control</a></b> <code>TinyML/C</code>
-<br>Commande vocale hors-ligne sur ESP32-S3 : TinySpeech entraîné en QAT, quantifié en Int8, et moteur d'inférence écrit en C.
+<p align="center"><b><a href="https://github.com/antonin-lfv/ESP32-robot-piloting-with-TinySpeech">🗣️ ESP32 ElioBot Voice Control</a></b><br><sub><code>TinyML/C</code></sub></p>
+<p align="left">Commande vocale hors-ligne sur ESP32-S3 : TinySpeech entraîné en QAT, quantifié en Int8, et moteur d'inférence écrit en C.</p>
 </td>
 </tr>
 </table>
